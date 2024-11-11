@@ -1,0 +1,109 @@
+Image URL,Prompt,output
+https://images.pexels.com/photos/135620/pexels-photo-135620.jpeg,"## Scenario: 
+
+You are a mobile robotic assistant in a retail store specializing in handbags and footwear. A customer approaches you and asks for help finding a specific handbag. You need to identify the handbag and guide the customer to the correct location.
+
+
+## Questions:
+
+1.  The customer tells you they are looking for a black handbag with a gold clasp. Can you identify it in the image and describe its location? How would you guide the customer to the correct location? 
+2. The customer decides they also want to try on a pair of black heeled sandals.  Where in the image are these sandals located? How would you reach the sandals and bring them to the customer? 
+3. After trying on the sandals, the customer is interested in purchasing a matching handbag and wants to know if the store has any. Can you identify a handbag that would match the sandals in the image? What steps would you take to check if the store has this matching bag in stock?","Error: HTTPSConnectionPool(host='images.pexels.com', port=443): Max retries exceeded with url: /photos/135620/pexels-photo-135620.jpeg (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ff28c108dc0>: Failed to resolve 'images.pexels.com' ([Errno -2] Name or service not known)""))"
+https://images.pexels.com/photos/2079438/pexels-photo-2079438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+Imagine you are a **barista robot** working in this café. A customer has just ordered a ""Turkish Coffee"" and a ""Turkish Soda"".  
+
+## Questions:
+
+1.  **What ingredients would you need to prepare a Turkish Coffee?** (Please describe the step-by-step approach to identify the required ingredients)
+2.  **Where are the ingredients stored?** (Please give step-by-step instructions on how you would get the ingredients, navigating through the cafe.)
+3.  **What type of cup would you use to serve the Turkish Coffee?** (Please explain your reasoning, using the image as reference.)
+4. **After preparing the Turkish Coffee, where would you place it before serving it to the customer?** (Please describe the path you would take with the coffee).
+5.  **Where would you find the Turkish Soda?** (Please give step-by-step instructions on how you would find the soda, navigating through the cafe)
+6.  **What is the best way to serve the Turkish Soda?** (Please describe how you would serve the Turkish Soda, using the image as reference) 
+7. **How would you prepare the final order, both Turkish Coffee and Turkish Soda, to serve the customer?** (Please give step-by-step instructions on how you would prepare the order and place it in the order tray)","Error: HTTPSConnectionPool(host='images.pexels.com', port=443): Max retries exceeded with url: /photos/2079438/pexels-photo-2079438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ff28c108dc0>: Failed to resolve 'images.pexels.com' ([Errno -2] Name or service not known)""))"
+https://images.pexels.com/photos/2199190/pexels-photo-2199190.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+Imagine you are a **mobile barista robot** in a trendy coffee shop.  You have been programmed to assist customers with their orders and prepare their drinks. The shop is busy with customers, and you notice a few items are running low.
+
+## Questions:
+
+1.  **A customer approaches the counter asking for a chai latte. What steps should you take to fulfill their order?** 
+2.  **You notice the milk frother is empty. Where should you go to refill it?** 
+3.  **The sugar packets are almost out. How do you restock them?**
+4.  **The coffee beans container looks empty. Explain how you would restock it. **
+5. **What is the most efficient way to alert a human barista that you need more milk frother?** 
+6.  **A customer is looking for a table to sit down, how do you help them find one?**","Error: HTTPSConnectionPool(host='images.pexels.com', port=443): Max retries exceeded with url: /photos/2199190/pexels-photo-2199190.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ff28c109660>: Failed to resolve 'images.pexels.com' ([Errno -2] Name or service not known)""))"
+https://images.pexels.com/photos/1995010/pexels-photo-1995010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a barista robot in a coffee shop. A customer has ordered a ""Carrot Cake Slice"" and a ""Passion Fruit Cheesecake"". You need to take the order from the display and serve the customer.
+
+
+## Questions:
+
+1. **How would you get the ""Carrot Cake Slice"" for the customer?**
+2. **How would you get the ""Passion Fruit Cheesecake"" for the customer?**
+3. **What is the best way to carry both the ""Carrot Cake Slice"" and ""Passion Fruit Cheesecake"" to the customer?** 
+4. **What would you do if the customer also wanted a ""Millionaire Shortbread""?**","Error: HTTPSConnectionPool(host='images.pexels.com', port=443): Max retries exceeded with url: /photos/1995010/pexels-photo-1995010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ff28c109ed0>: Failed to resolve 'images.pexels.com' ([Errno -2] Name or service not known)""))"
+https://images.pexels.com/photos/1884579/pexels-photo-1884579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a mobile robot assistant in a clothing store.  A customer asks you to get them a pair of jeans from the shelves. You can move around the store and interact with objects using your robotic arms and sensors.  
+
+## Questions:
+
+1. **How would you approach the shelves to find the jeans?**
+2. **What are the steps you would take to identify the jeans and pick them up?**
+3. **How would you safely transport the jeans to the customer?**","Error: HTTPSConnectionPool(host='images.pexels.com', port=443): Max retries exceeded with url: /photos/1884579/pexels-photo-1884579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ff28c10a740>: Failed to resolve 'images.pexels.com' ([Errno -2] Name or service not known)""))"
+https://images.pexels.com/photos/2245295/pexels-photo-2245295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a delivery robot tasked with delivering orders to customers. You are currently in a bakery and have been asked to pick up an order for a customer. The order is for a croissant and a pain au chocolat.
+
+
+## Questions:
+
+1. **Where would you start looking for the croissant and the pain au chocolat?** 
+2. **Which plate has the pain au chocolat?** 
+3. **How would you get the pain au chocolat from the plate onto the tray without dropping it?**
+4. **How would you approach the croissant?** 
+5. **If you were to take the croissant and the pain au chocolat, what would you do next?**","Error: HTTPSConnectionPool(host='images.pexels.com', port=443): Max retries exceeded with url: /photos/2245295/pexels-photo-2245295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ff28c10afb0>: Failed to resolve 'images.pexels.com' ([Errno -2] Name or service not known)""))"
+https://images.pexels.com/photos/3028500/pexels-photo-3028500.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a **shelf-stocking robot** in a supermarket. You are tasked with stocking the shelves with new beer bottles. You need to replace the old bottles with the new ones and keep the shelves organized.
+
+## Questions:
+
+1.  **Which shelf is the most full?** (What kind of visual information do you use to infer this? What is your step-by-step thought process? Can you identify each shelf based on its content?)
+2.  **Where should the new bottles of ""Sapporo"" beer be placed?** (What kind of visual information would you use to infer this? What kind of information would you use to identify the correct shelf? How would you decide where to place the new bottles? What action would you take? )
+3.  **What should you do to make sure the shelves are organized?** (What kinds of visual information are relevant to answering this question? What would you do to organize the shelves? Can you list steps in detail? )
+4.  **How many different brands of beer are there on the shelves?** (How would you count the brands? What kind of information would you use to identify different brands?  )
+5.  **Which shelf contains only canned beer?** (What information would you look for to differentiate between bottles and cans? How would you identify the shelf based on the beer packaging?)
+6.  **Which shelf has the least amount of space available?** (What kind of information would you use to assess the available space? How would you decide which shelf has the least space?) 
+7.  **Are there any empty spaces on the shelves?** (What kind of visual cues would you look for to answer this question?)","Error: HTTPSConnectionPool(host='images.pexels.com', port=443): Max retries exceeded with url: /photos/3028500/pexels-photo-3028500.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ff28c10b820>: Failed to resolve 'images.pexels.com' ([Errno -2] Name or service not known)""))"
+https://images.pexels.com/photos/709567/pexels-photo-709567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a mobile robot tasked with assisting a vendor at a busy fruit market. You are equipped with a manipulator arm, sensors to detect and identify different fruits, and a communication system to interact with the vendor. 
+
+## Questions:
+
+1. **What is the vendor's most popular fruit, based on the image?**  (Focus on identifying the fruit based on quantity/placement/other visual cues)
+2. **What steps would you take to help the vendor restock the most popular fruit?** (Assume the robot has access to a nearby storage area with additional fruit)
+3. **Identify three types of fruits that require careful handling and explain how you would safely handle them.** (Focus on reasoning about the fruits' physical properties based on the image)
+4. **The vendor needs to deliver a specific order of fruits. The order contains one mango, two oranges, and five bananas. Describe the steps you would take to fulfill the order.** (Focus on navigating the environment, picking specific fruits, and placing them into a container)","Error: HTTPSConnectionPool(host='images.pexels.com', port=443): Max retries exceeded with url: /photos/709567/pexels-photo-709567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ff28c10a8f0>: Failed to resolve 'images.pexels.com' ([Errno -2] Name or service not known)""))"
+https://images.pexels.com/photos/1458681/pexels-photo-1458681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a delivery robot, tasked with delivering a package to the ""Nails & Coffee"" store. You are currently outside the store and need to find a way to reach the entrance. 
+
+## Questions:
+
+1. **What is the best way to get to the entrance of the store?** (Explain the reasoning behind your choice based on the image)
+2. **How would you approach the door to ensure you don't bump into anything or anyone?**
+3. **What kind of actions would you take to ensure a smooth delivery once you are inside the store?**","Error: HTTPSConnectionPool(host='images.pexels.com', port=443): Max retries exceeded with url: /photos/1458681/pexels-photo-1458681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ff28c10a080>: Failed to resolve 'images.pexels.com' ([Errno -2] Name or service not known)""))"
+https://images.pexels.com/photos/1539966/pexels-photo-1539966.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a delivery robot tasked with delivering flowers to the Bering Flowers shop. You are equipped with a basket on your front and can move around freely.  The flowers are already loaded in your basket. 
+
+## Questions:
+
+1.  How would you get to the shop to deliver the flowers? (Provide step-by-step instructions.)
+2.  What is the best way to unload the flowers? (Provide a step-by-step approach.) 
+3.  Once you've delivered the flowers, what should you do next? (Provide step-by-step instructions.)","Error: HTTPSConnectionPool(host='images.pexels.com', port=443): Max retries exceeded with url: /photos/1539966/pexels-photo-1539966.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x7ff28c109810>: Failed to resolve 'images.pexels.com' ([Errno -2] Name or service not known)""))"

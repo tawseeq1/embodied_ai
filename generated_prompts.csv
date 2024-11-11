@@ -1,0 +1,1683 @@
+Image URL,Prompt
+https://images.pexels.com/photos/135620/pexels-photo-135620.jpeg,"## Scenario: 
+
+You are a mobile robotic assistant in a retail store specializing in handbags and footwear. A customer approaches you and asks for help finding a specific handbag. You need to identify the handbag and guide the customer to the correct location.
+
+
+## Questions:
+
+1.  The customer tells you they are looking for a black handbag with a gold clasp. Can you identify it in the image and describe its location? How would you guide the customer to the correct location? 
+2. The customer decides they also want to try on a pair of black heeled sandals.  Where in the image are these sandals located? How would you reach the sandals and bring them to the customer? 
+3. After trying on the sandals, the customer is interested in purchasing a matching handbag and wants to know if the store has any. Can you identify a handbag that would match the sandals in the image? What steps would you take to check if the store has this matching bag in stock?"
+https://images.pexels.com/photos/2079438/pexels-photo-2079438.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+Imagine you are a **barista robot** working in this café. A customer has just ordered a ""Turkish Coffee"" and a ""Turkish Soda"".  
+
+## Questions:
+
+1.  **What ingredients would you need to prepare a Turkish Coffee?** (Please describe the step-by-step approach to identify the required ingredients)
+2.  **Where are the ingredients stored?** (Please give step-by-step instructions on how you would get the ingredients, navigating through the cafe.)
+3.  **What type of cup would you use to serve the Turkish Coffee?** (Please explain your reasoning, using the image as reference.)
+4. **After preparing the Turkish Coffee, where would you place it before serving it to the customer?** (Please describe the path you would take with the coffee).
+5.  **Where would you find the Turkish Soda?** (Please give step-by-step instructions on how you would find the soda, navigating through the cafe)
+6.  **What is the best way to serve the Turkish Soda?** (Please describe how you would serve the Turkish Soda, using the image as reference) 
+7. **How would you prepare the final order, both Turkish Coffee and Turkish Soda, to serve the customer?** (Please give step-by-step instructions on how you would prepare the order and place it in the order tray)"
+https://images.pexels.com/photos/2199190/pexels-photo-2199190.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+Imagine you are a **mobile barista robot** in a trendy coffee shop.  You have been programmed to assist customers with their orders and prepare their drinks. The shop is busy with customers, and you notice a few items are running low.
+
+## Questions:
+
+1.  **A customer approaches the counter asking for a chai latte. What steps should you take to fulfill their order?** 
+2.  **You notice the milk frother is empty. Where should you go to refill it?** 
+3.  **The sugar packets are almost out. How do you restock them?**
+4.  **The coffee beans container looks empty. Explain how you would restock it. **
+5. **What is the most efficient way to alert a human barista that you need more milk frother?** 
+6.  **A customer is looking for a table to sit down, how do you help them find one?**"
+https://images.pexels.com/photos/1995010/pexels-photo-1995010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a barista robot in a coffee shop. A customer has ordered a ""Carrot Cake Slice"" and a ""Passion Fruit Cheesecake"". You need to take the order from the display and serve the customer.
+
+
+## Questions:
+
+1. **How would you get the ""Carrot Cake Slice"" for the customer?**
+2. **How would you get the ""Passion Fruit Cheesecake"" for the customer?**
+3. **What is the best way to carry both the ""Carrot Cake Slice"" and ""Passion Fruit Cheesecake"" to the customer?** 
+4. **What would you do if the customer also wanted a ""Millionaire Shortbread""?**"
+https://images.pexels.com/photos/1884579/pexels-photo-1884579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a mobile robot assistant in a clothing store.  A customer asks you to get them a pair of jeans from the shelves. You can move around the store and interact with objects using your robotic arms and sensors.  
+
+## Questions:
+
+1. **How would you approach the shelves to find the jeans?**
+2. **What are the steps you would take to identify the jeans and pick them up?**
+3. **How would you safely transport the jeans to the customer?**"
+https://images.pexels.com/photos/2245295/pexels-photo-2245295.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a delivery robot tasked with delivering orders to customers. You are currently in a bakery and have been asked to pick up an order for a customer. The order is for a croissant and a pain au chocolat.
+
+
+## Questions:
+
+1. **Where would you start looking for the croissant and the pain au chocolat?** 
+2. **Which plate has the pain au chocolat?** 
+3. **How would you get the pain au chocolat from the plate onto the tray without dropping it?**
+4. **How would you approach the croissant?** 
+5. **If you were to take the croissant and the pain au chocolat, what would you do next?**"
+https://images.pexels.com/photos/3028500/pexels-photo-3028500.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a **shelf-stocking robot** in a supermarket. You are tasked with stocking the shelves with new beer bottles. You need to replace the old bottles with the new ones and keep the shelves organized.
+
+## Questions:
+
+1.  **Which shelf is the most full?** (What kind of visual information do you use to infer this? What is your step-by-step thought process? Can you identify each shelf based on its content?)
+2.  **Where should the new bottles of ""Sapporo"" beer be placed?** (What kind of visual information would you use to infer this? What kind of information would you use to identify the correct shelf? How would you decide where to place the new bottles? What action would you take? )
+3.  **What should you do to make sure the shelves are organized?** (What kinds of visual information are relevant to answering this question? What would you do to organize the shelves? Can you list steps in detail? )
+4.  **How many different brands of beer are there on the shelves?** (How would you count the brands? What kind of information would you use to identify different brands?  )
+5.  **Which shelf contains only canned beer?** (What information would you look for to differentiate between bottles and cans? How would you identify the shelf based on the beer packaging?)
+6.  **Which shelf has the least amount of space available?** (What kind of information would you use to assess the available space? How would you decide which shelf has the least space?) 
+7.  **Are there any empty spaces on the shelves?** (What kind of visual cues would you look for to answer this question?)"
+https://images.pexels.com/photos/709567/pexels-photo-709567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a mobile robot tasked with assisting a vendor at a busy fruit market. You are equipped with a manipulator arm, sensors to detect and identify different fruits, and a communication system to interact with the vendor. 
+
+## Questions:
+
+1. **What is the vendor's most popular fruit, based on the image?**  (Focus on identifying the fruit based on quantity/placement/other visual cues)
+2. **What steps would you take to help the vendor restock the most popular fruit?** (Assume the robot has access to a nearby storage area with additional fruit)
+3. **Identify three types of fruits that require careful handling and explain how you would safely handle them.** (Focus on reasoning about the fruits' physical properties based on the image)
+4. **The vendor needs to deliver a specific order of fruits. The order contains one mango, two oranges, and five bananas. Describe the steps you would take to fulfill the order.** (Focus on navigating the environment, picking specific fruits, and placing them into a container)"
+https://images.pexels.com/photos/1458681/pexels-photo-1458681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a delivery robot, tasked with delivering a package to the ""Nails & Coffee"" store. You are currently outside the store and need to find a way to reach the entrance. 
+
+## Questions:
+
+1. **What is the best way to get to the entrance of the store?** (Explain the reasoning behind your choice based on the image)
+2. **How would you approach the door to ensure you don't bump into anything or anyone?**
+3. **What kind of actions would you take to ensure a smooth delivery once you are inside the store?**"
+https://images.pexels.com/photos/1539966/pexels-photo-1539966.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a delivery robot tasked with delivering flowers to the Bering Flowers shop. You are equipped with a basket on your front and can move around freely.  The flowers are already loaded in your basket. 
+
+## Questions:
+
+1.  How would you get to the shop to deliver the flowers? (Provide step-by-step instructions.)
+2.  What is the best way to unload the flowers? (Provide a step-by-step approach.) 
+3.  Once you've delivered the flowers, what should you do next? (Provide step-by-step instructions.)"
+https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a delivery robot (similar to a Roomba) in a living room. Your task is to deliver a package to the customer. 
+
+## Questions:
+
+1.  Where should you place the package? Explain your reasoning. How would you reach that place?
+2.  Are there any obstacles you need to avoid while delivering the package? Explain your reasoning and how you would avoid these obstacles.
+3.  The customer needs some items from the bookshelf.  Explain how would you get the items to the customer."
+https://images.pexels.com/photos/2079246/pexels-photo-2079246.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a mobile robot in a living room. Your goal is to clean up the room and make it more presentable for a guest arriving soon.
+
+## Questions:
+
+1. **What objects in the image need to be cleaned?** 
+    * Explain your reasoning for each object selected.
+    * Describe the steps you would take to clean each object, considering your capabilities as a robot. 
+
+2. **What objects are in the way of cleaning the objects you identified in question 1?**
+    * Explain your reasoning for each object identified as an obstacle.
+    * Describe the steps you would take to move the objects in the way of cleaning, considering your capabilities as a robot.
+
+3. **What objects can you move to make the living room more presentable?**
+    * Explain your reasoning for each object selected.
+    * Describe the steps you would take to move each object, considering your capabilities as a robot."
+https://images.pexels.com/photos/1080696/pexels-photo-1080696.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a robotic butler (a wheeled, articulated robotic arm with a gripper hand) in a modern home. The homeowner has requested you to set the table for lunch. 
+
+## Questions:
+
+1. **Identify the items on the table that need to be moved to set the table.**
+
+    *  How would you approach this task? 
+    *  What steps would you take to identify and move these items?
+
+2. **Find the four chairs that are missing from the table.**
+
+    *  How would you find the missing chairs? 
+    *  Where would you look for them? 
+    *  Describe the steps you would take to move each chair to the table. 
+
+3. **Arrange the chairs around the table in a way that is comfortable for dining.**
+
+    *  Describe the steps you would take to position each chair correctly around the table.
+    *  Consider any factors that might influence your chair placement decisions."
+https://images.pexels.com/photos/1129413/pexels-photo-1129413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a delivery robot tasked with delivering a package to a customer. You have arrived at the customer's address, which is a cafe. You see the package placed on the counter, and you need to pick it up and deliver it to the customer who is sitting at the table.
+
+## Questions: 
+
+1.  What is the first step you should take? 
+2.  What is the next step you should take after you have picked up the package?
+3.  How would you make sure you deliver the package to the correct customer?
+4. How would you navigate through the cafe to reach the customer's table without bumping into anything or anyone? 
+5. How would you safely deliver the package to the customer at the table?"
+https://images.pexels.com/photos/462235/pexels-photo-462235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a mobile robot, tasked with helping a child set up their bed for a sleepover. The child's bed is already made, but they need assistance in arranging the pillows and placing a book and a cup on the bed.  
+
+## Questions:
+
+1.  **How can you get the book and cup from the floor and place them on the bed?** (This question requires the robot to identify the objects and their locations, plan a path, and describe the actions for picking up and placing the objects.)
+2.  **What are the different ways you can arrange the pillows on the bed, and how can you achieve each arrangement?** (This question requires the robot to analyze the current pillow arrangement, identify possible configurations, and describe the movements involved in rearranging the pillows.)
+3.  **How can you ensure the child is happy with the final arrangement of pillows and objects?** (This question requires the robot to consider the child's preferences and understand their potential feedback for adapting the arrangement.)"
+https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario: 
+
+You are a mobile robot tasked with organizing a small home office. The owner has requested that you tidy up the room and ensure that everything is in its proper place.
+
+## Questions: 
+
+1. **Describe the objects in the room and their positions.** What is the most logical way to organize the books, the toy car, the lamp, and the decorative plant? Where should each item be placed?
+2. **How would you move the toy car to the corner of the room?** Describe the specific steps you would take to accomplish this, considering any obstacles and your own physical limitations.
+3. **The owner wants to display a framed photograph of a mountain range on the bookshelf to the left. How would you accomplish this task?** Provide a step-by-step explanation of how you would reach the shelf and safely place the photograph without knocking over any books. 
+4. **The owner needs to access the books on the top shelf of the bookshelf on the right. How would you help them reach the books?** Explain the steps you would take to move the object in your path and allow access to the shelf.
+5. **The owner would like the lamp to be placed on the bookshelf on the right. Describe the steps you would take to move the lamp to the bookshelf.**
+6. **How would you make sure the lamp is not blocking the books on the bookshelf?** What steps would you take to adjust the lamp's position?"
+https://images.pexels.com/photos/259962/pexels-photo-259962.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a delivery robot tasked with delivering a package to the living room of this house. You have been programmed to avoid obstacles and navigate through doorways.
+
+## Questions:
+
+1.  **What is the best path to take to reach the living room?** 
+    *  **Explain step-by-step the reasoning behind your path choice, taking into account potential obstacles and doorways.**
+2.  **Can you describe the optimal route, considering the presence of furniture and other objects?**
+    *  **Provide a detailed step-by-step approach for navigating the space, highlighting the actions you would take at each step.** 
+3.  **What is the safest and most efficient way to move around the living room, while avoiding any potential collisions?** 
+    * **Explain the steps you would take to reach the living room safely, considering the obstacles and potential dangers you might encounter.**"
+https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a **mobile robot assistant** tasked with helping a team of designers in their office. The team is working on a new project and needs some supplies.
+
+## Questions:
+
+1.  **What supplies might the team need that you can bring them from the shelf in the background?**  Explain your reasoning and how you would navigate to get the supplies. 
+2.  **One of the designers has asked you to grab a laptop from the table. Which one should you pick up?** Explain how you can determine which laptop belongs to the designer. 
+3.  **The designer asks you to place a water bottle on the table. Where would you place it?**  Explain your reasoning based on the arrangement of items on the table. 
+4.  **How would you move to the shelf from the table to get the supplies?**  Describe your movements step-by-step. 
+5.  **The team wants you to move a plant from the table to the windowsill. How would you do it?**  Outline the steps you would take to safely move the plant."
+https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario: 
+
+You are a robotic assistant in an office. You have a set of tools and the ability to manipulate objects.  You need to set up the desk for a meeting. You will be using the tools you have, and the items already present on the desk to create a meeting-ready workspace.
+
+
+## Questions:
+
+1. **What items should be removed from the desk to prepare it for a meeting?**
+2. **How would you organize the items that should be removed?**
+3. **What would you do to make sure the desk is clean and ready for the meeting?**
+4. **Imagine you are bringing some additional items like a notepad, a pen, and some coffee cups for the meeting. How would you place them on the desk in a way that is both functional and aesthetically pleasing?**
+5. **After the meeting is over, what would be the steps to tidy up the desk and prepare it for the next day?**"
+https://images.pexels.com/photos/2451566/pexels-photo-2451566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario: 
+
+You are a mobile robot assistant in an office space. You are tasked with delivering a document to a person sitting at a desk with a computer. 
+
+## Questions:
+
+1.  **Identify the person who needs the document.** How would you approach this task, given the image? What information from the image would you use to identify the right person? 
+2.  **How would you get to the person's desk?** Explain your step-by-step movement, considering the obstacles and the layout of the office.
+3.  **How would you get the document to the person?** Describe the specific action(s) you would perform to hand over the document."
+https://images.pexels.com/photos/632470/pexels-photo-632470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a mobile robot assistant in an office setting. You are tasked with helping your human colleague organize their workspace.  
+
+## Questions:
+
+1. **What are some things you could do to help your colleague organize their workspace, based on what you see in the image?** 
+   * **Step by step approach**: Describe the actions you would take based on the image, including identifying specific objects and their potential uses for organization. For example, ""I would use the sticky notes to label different items...""
+2. **What could you do to make sure you don't accidentally move or disrupt anything important during the organization process?** 
+   * **Step by step approach**: Outline the steps you would take to avoid disrupting the workspace, considering the potential consequences of moving certain items. For example, ""I would carefully check the papers on the desk before moving them...""
+3. **Imagine your colleague asks you to put away the pens. How would you identify which pens belong together and how would you decide where to put them?** 
+   * **Step by step approach**: Describe your process for grouping the pens and choosing a suitable storage location, paying attention to potential cues in the image. For example, ""I would look for any existing pen holders or containers..."" 
+4. **How could you use the compass to help your colleague find their way around the office?**
+   * **Step by step approach**: Explain how you could use the compass in the image to help your colleague navigate the office, assuming you have access to a map or other relevant information. For example, ""I could use the compass to determine the direction of the office door..."""
+https://images.pexels.com/photos/4019754/pexels-photo-4019754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a mobile robot with a gripper and a camera. Your goal is to help students in this classroom. 
+
+## Questions:
+
+1. **What is the student in the grey shirt doing?** How would you identify him? How would you approach him?
+2. **The student in the red shirt needs a pencil. Where can you find one?** How would you identify the student? How would you find a pencil? How would you reach it and hand it to him?
+3. **The teacher wants to show something on the whiteboard to all the students. How would you make sure all the students are facing the board?** How would you identify the teacher? How would you identify students? How would you move the students?
+4. **A student has dropped a pencil. How would you pick it up and bring it to the student?** How would you identify the pencil? How would you reach it? How would you pick it up? How would you bring it to the student?
+5. **The teacher needs to write on the board. Can you help her by bringing a marker?** How would you identify a marker? Where would you look for it? How would you reach and pick it up? How would you bring it to the teacher?"
+https://images.pexels.com/photos/17904193/pexels-photo-17904193/free-photo-of-colorful-slides-on-playground.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a wheeled robot tasked with helping children play on the playground. You can move around freely and interact with objects within your reach. 
+
+## Questions:
+
+1. A child is asking you to help them get to the top of the slide. How would you help them? 
+2. Another child wants to go down the slide. Describe how you would help them get on and off the slide. 
+3. A group of children wants to play a game where they need to reach the top of the tall structure. Explain how you would assist them. 
+4. A child asks you to get a ball that's stuck at the top of the tall structure. How would you do it?
+5. You observe a child struggling to climb up the slide. What could you do to help them?"
+https://images.pexels.com/photos/29152260/pexels-photo-29152260/free-photo-of-child-s-red-bicycle-parked-against-iron-fence.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a wheeled robot tasked with retrieving a bicycle from a fenced-in area. The fence is made of metal bars and there is a gap in the fence near the bike. You must navigate through this gap to access the bike.  
+
+
+## Questions:
+
+1. **How would you navigate the gap in the fence to reach the bicycle?**  Explain your approach step by step.
+
+2. **Assuming the bicycle is too heavy to lift, how would you move it outside the fenced area?** Explain your approach step by step."
+https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a medical assistant robot tasked with taking care of patients in this hospital ward. You are currently standing in the middle of the room, facing the patient beds.
+
+## Questions:
+
+1. **What is the most urgent task you need to do right now?**  Explain the steps you would take to complete this task. 
+2. **A patient in one of the beds is requesting a glass of water. How would you get them a glass of water?** Explain the steps you would take to complete this task.
+3. **There is a piece of medical equipment that needs to be moved to the other side of the room. How would you move the equipment?** Explain the steps you would take to complete this task. 
+4. **Where would you find a clean bed sheet for a patient?** Explain the steps you would take to complete this task.
+5. **A patient's family member is asking for directions to the restroom. How would you direct them?** Explain the steps you would take to complete this task."
+https://images.pexels.com/photos/3769151/pexels-photo-3769151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario: 
+
+You are a mobile robotic assistant tasked with helping patients in a hospital. You are equipped with a manipulator arm that can grasp and move objects, as well as a camera and sensors for navigation and object recognition. You are currently in a patient's room, tasked with taking a  water bottle from the bedside table and handing it to the patient on the bed.
+
+## Questions:
+
+1. **Where is the water bottle located?**
+2. **What is the most efficient way to reach the bedside table?**
+3. **How would you manipulate your robotic arm to pick up the water bottle?**
+4. **How would you navigate around the bed to approach the patient?**
+5. **How would you position yourself to safely hand the water bottle to the patient?**"
+https://images.pexels.com/photos/6129870/pexels-photo-6129870.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario: 
+
+You are a robotic nurse assistant designed to help patients navigate a hospital. You see a patient in a wheelchair in the hallway. The patient is wearing a blue gown and is being escorted by a nurse. The nurse is wearing a surgical mask.  There is also a stretcher with a mattress on it in the hallway.  
+
+## Questions: 
+
+1. **What should you do to help the patient reach their destination?**
+2. **How should you interact with the nurse to ensure a smooth transition for the patient?**
+3. **If the patient needs to be transferred to the stretcher, how would you approach this task?** 
+4. **Where do you think the patient is headed?**"
+https://images.pexels.com/photos/6129879/pexels-photo-6129879.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a **laboratory assistant robot** tasked with preparing a sample for analysis under a microscope. You need to collect a small amount of the sample using a pipette, transfer it to a slide, and cover it with a coverslip. The microscope is already set up and ready to use. 
+
+## Questions:
+
+1. **What steps would you take to collect the sample from the container using the pipette?** 
+2. **How would you transfer the sample from the pipette to the slide without spilling it?**
+3. **Describe how you would position the slide under the microscope lens for viewing.** 
+4. **After preparing the sample, what actions would you take to ensure the slide is safely stored and ready for analysis?**"
+https://images.pexels.com/photos/6129237/pexels-photo-6129237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a mobile medical assistant robot designed to assist medical professionals in a hospital setting. You are in a patient's room, where a doctor is examining a patient in a hospital bed. Your task is to help the doctor with any tasks they may need assistance with.
+
+
+## Questions:
+
+1. What is the doctor doing in the image? Can you tell me the steps you would take to help the doctor with this task? 
+2. The doctor seems to be communicating with the patient, can you tell me the steps to take to help the doctor communicate with the patient better? 
+3. Is the patient in need of anything? How can you infer that from the image? 
+4. The doctor seems to be writing something down. How can you help them with this task? 
+5. If the doctor needs to bring supplies, how would you assist them?"
+https://images.pexels.com/photos/6129688/pexels-photo-6129688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a **mobile medical assistant robot** in a hospital room.  A nurse is taking a patient's blood pressure. You are asked to help the nurse with the process. 
+
+## Questions:
+
+1.  What should you do to help the nurse with the blood pressure reading? How can you assist the nurse in this task? Explain your reasoning. Give a step-by-step approach of how you will proceed.
+2.  Describe the patient's current position. What is the patient wearing? Why is it important to take the patient's blood pressure while they are seated? Explain your reasoning. Give a step-by-step approach of how you will proceed. 
+3.  What kind of equipment is being used to take the blood pressure? Are there other medical tools in the room? What is the purpose of each tool? Explain your reasoning. Give a step-by-step approach of how you will proceed."
+https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a small robotic arm with a gripper attached to the end. You are tasked with helping a mechanic organize their tools in their workshop. 
+
+## Questions:
+
+1.  The mechanic needs to use a wrench to tighten a bolt.  They need a wrench that is about 10 inches long. Which wrench should you pick up for them and how would you do it? Describe the steps.
+2.  The mechanic needs a small screwdriver.  What kind of screwdriver should you grab for them and what steps will you take to get it?
+3.  The mechanic wants to find a screwdriver that can be used to tighten screws with a hexagonal head. Which screwdriver should you pick for them? How would you do it?
+4.  The mechanic needs to use a wrench to loosen a nut.  They need a wrench that is about 6 inches long. Which wrench should you pick up for them and how would you do it? Describe the steps. 
+5.  The mechanic needs a socket wrench to tighten a bolt. What kind of socket wrench should you grab for them and what steps will you take to get it? 
+6.  The mechanic asks for a small adjustable wrench. Which wrench should you pick up for them and how would you do it? Describe the steps."
+https://images.pexels.com/photos/357440/pexels-photo-357440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a mobile robot, designed for industrial maintenance, navigating through an abandoned factory. Your objective is to locate a faulty valve in the system. You have identified a section of pipes with multiple valves that have been tampered with, causing the system to malfunction. You need to inspect each valve to identify the faulty one.
+
+## Questions:
+
+1. **Identify the valves that are most likely malfunctioning based on the image.**
+2. **Assuming each valve has a mechanism for manual control, describe the steps you would take to open and close each of the identified valves.**
+3. **Based on the image, which valve would you inspect first and why?** 
+4. **If you can't physically interact with the valves, how would you proceed to identify the faulty one?**
+5. **Would you need any specific tools for this task? If so, what would they be?**"
+https://images.pexels.com/photos/17546509/pexels-photo-17546509/free-photo-of-water-bottles-stand.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a mobile robotic arm with a gripper. You are tasked with replenishing the empty shelf in the supermarket. The shelf is located on the right side of the image, and the bottles are stacked on the other shelves.
+
+## Questions:
+
+1. **Describe the steps you would take to pick up a bottle of water from the top shelf and place it on the empty shelf. Be specific about how you would move and interact with the bottles and the shelf.**
+2. **How would you determine which bottles are full and which are empty? What information would you use to make this decision?**
+3. **What are some potential challenges you might encounter while performing this task? How would you overcome these challenges?**"
+https://images.pexels.com/photos/29170275/pexels-photo-29170275/free-photo-of-assorted-donuts-display-in-bakery.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a robotic arm, positioned above a glass display case filled with various pastries. You are designed to serve customers their desired pastries. 
+
+## Questions:
+
+1. A customer requests a ""Glace au chocolat"" pastry. Describe step by step how you would locate and retrieve this pastry from the display case.
+2. Another customer requests a pastry with chocolate sprinkles. Describe step by step how you would locate and retrieve this pastry from the display case. 
+3. A customer requests a pastry that is covered in caramel. Describe step by step how you would locate and retrieve this pastry from the display case."
+https://images.pexels.com/photos/3735219/pexels-photo-3735219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a robotic assistant working in a small grocery store. Your task is to help customers find the items they need and assist with stocking shelves. Today, a customer has asked for a reusable cloth bag. 
+
+## Questions:
+
+1. **Where should you look for the reusable cloth bags?** 
+2. **How would you guide the customer to the location of the bags?** 
+3. **Imagine the customer also asks for a glass jar. What would you do?** 
+4. **While restocking shelves, you find a shelf is almost empty. What would you do to ensure the store has enough stock?**"
+https://images.pexels.com/photos/27837778/pexels-photo-27837778/free-photo-of-banca-de-jornal.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2https://images.pexels.com/photos/5473023/pexels-photo-5473023.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"Scenario: You are a delivery robot working in a bustling city. You need to deliver a package to a customer inside this store. 
+
+Questions:
+1. How would you get inside the store?
+2. Which path would you take to avoid obstacles and reach the customer?
+3. How would you identify the customer and hand them the package?
+4. What are the possible problems you might encounter during this task?
+5. How would you navigate around the people and the items in the store to ensure the safe delivery of the package?"
+https://plus.unsplash.com/premium_photo-1664202526744-516d0dd22932?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a delivery robot tasked with delivering a pair of brown ankle boots to a customer in a retail store. You have been given the customer's order details and know that the boots are on the shelf in the image. 
+
+## Questions:
+
+1. **What are the steps you would take to locate the brown ankle boots on the shelf?**
+2. **How would you reach the brown ankle boots, considering the other items on the shelf?**
+3. **Once you have retrieved the brown ankle boots, how would you safely carry them to the customer?** 
+4. **What precautions should you take while navigating the store with the brown ankle boots in your grasp?**"
+https://images.unsplash.com/photo-1453614512568-c4024d13c247?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a barista robot, and your job is to prepare coffee orders for customers. A customer has just ordered a cappuccino. 
+
+## Questions:
+
+1.  **How would you prepare a cappuccino?** (This question requires the robot to describe the steps it would take to make a cappuccino using the equipment in the image).
+2.  **What ingredients would you need to prepare the cappuccino?** (This question requires the robot to identify the ingredients in the image that are necessary for making a cappuccino).
+3.  **Where would you find the milk for the cappuccino?** (This question requires the robot to identify where in the image the milk would be located).
+4.  **How would you serve the cappuccino to the customer?** (This question requires the robot to think about the typical procedure for serving coffee to a customer).
+5.  **Where would you place the cappuccino once it is prepared?** (This question requires the robot to consider the layout of the shop and determine a logical place to put a completed order)."
+https://images.unsplash.com/photo-1519406596751-0a3ccc4937fe?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a mobile robot tasked with delivering textbooks to students in a one-room schoolhouse. You can move around the room, pick up objects, and place them on tables.  
+
+## Questions:
+
+1. **Identify the students' desks and the teacher's desk. How would you determine the best way to deliver the textbooks to each student?**
+2. **You need to find the stack of textbooks. Assuming textbooks are taller than the chairs and shorter than the desk, how would you find them?**
+3. **After locating the textbooks, how would you move them to the students' desks while avoiding collisions with other furniture and people? Describe the steps you would take.**
+4. **What are some potential challenges you might encounter while delivering the textbooks?**
+5. **Imagine the teacher needs to move some old books from the bookshelf to the teacher's desk. How would you help them?**"
+https://images.unsplash.com/photo-1516381548400-349d680edb56?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a small, wheeled robot with a single camera mounted on your top. Your goal is to help children play hopscotch in a park. You are tasked with guiding them through the game.
+
+## Questions:
+
+1. **How would you find the ""start"" square for the hopscotch game?** 
+    - **Step by step approach:** 
+        - **Look for the ""start"" square:** Look at the image and identify the square with the word ""start"" written on it. 
+        - **Remember the location:** Store the location of this square in your memory. 
+        - **Communicate the location:** Tell the children where the start square is.
+
+2. **If a child wants to hop on the square with the number ""5"", how would you guide them?**
+    - **Step by step approach:** 
+        - **Locate the square ""5"":** Look at the image and identify the square labeled with the number ""5"". 
+        - **Explain the location:** Describe the location of the ""5"" square relative to the ""start"" square. For example, ""The square with ""5"" is two squares up from the ""start"" square, and in the middle row.""
+        - **Communicate the guidance:** Inform the child about the location of the square ""5"" and guide them to hop on it.
+
+3. **How would you make sure the child hops on the square ""6"" after hopping on the square ""5""?**
+    - **Step by step approach:**
+        - **Locate the square ""6"":** Look at the image and identify the square labeled with the number ""6"". 
+        - **Explain the location:**  Describe the location of the ""6"" square relative to the ""5"" square. For example, ""The square with ""6"" is right next to the square with ""5"" on the right side.""
+        - **Communicate the guidance:** Inform the child about the location of the square ""6"" and guide them to hop on it."
+https://images.unsplash.com/photo-1453733190371-0a9bedd82893?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a cleaning robot tasked with cleaning a classroom. You notice a blackboard filled with handwritten equations, a shelf above it, and a long object on the ground in front of it.
+
+## Questions:
+
+1.  **Describe the process of cleaning the blackboard, including the steps you would take to remove the equations.** 
+2.  **What object is on the shelf above the blackboard?**
+3.  **Can you identify the object on the ground? What could it be used for?**
+4.  **How can you reach the shelf?**
+5.  **Is there any other information you can gather from the image to help you understand the environment?**"
+https://i.pinimg.com/736x/fe/8b/8c/fe8b8c57644ad7486f9cfa0c994c6b38.jpg,"## Scenario:
+
+You are a wheeled robot tasked with cleaning this living room.
+
+## Questions: 
+
+1. You see a lot of clutter in the room. Describe the items that need to be cleaned and outline your cleaning approach step-by-step.
+2. How would you navigate to the coffee table and clean it? Provide a step-by-step approach.
+3. You need to pick up a small object on the floor and place it on the coffee table. Describe how you would do this. 
+4. You need to move the armchair out of the way to access a dirty area on the floor. How would you do this?
+5. What challenges would you face in cleaning the room? How would you overcome them?"
+https://i.pinimg.com/564x/73/3b/07/733b076a1b6ebb463b4b92237eb69e87.jpg,"## Scenario:
+
+You are a mobile robotic butler designed to assist with household tasks. Your current task is to tidy up the living room, making it presentable for guests. The image shows the living room, with two sofas, a coffee table, and a TV, along with some decorative items.  
+
+## Questions:
+
+1. **What are the steps you would take to tidy up the living room, starting from the sofa?**  (Note: You can assume there are throw pillows on the sofas that need to be arranged).
+2. **How would you reposition the coffee table to ensure a comfortable flow of movement between the sofas and other areas of the room?**  (Note: Focus on the positioning of the table relative to the sofas and the overall space in the room).
+3. **Identify the most suitable location within the room to store a small tray of snacks. Briefly explain your reasoning.** (Note: The robot can only access visible areas within the room). 
+4. **Imagine there are some scattered magazines on the coffee table.  Describe the steps you would take to collect and arrange them neatly on the table.** (Note: The robot has the ability to grasp and move objects)."
+https://plus.unsplash.com/premium_photo-1688125414593-391cf90f3103?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario: 
+
+You are a **mobile robot**, equipped with a gripper arm and a camera, in a stylish living room. Your task is to prepare the living room for guests. You can move freely around the room, see and interact with objects in your field of view. 
+
+## Questions:
+
+1.  **What should be the first action I take to prepare the living room for guests?**
+    *   Explain your reasoning and steps for this action.
+2.  **How can I arrange the two chairs in a way that faces each other?**
+    *  Provide a step-by-step approach, detailing the actions you need to take.
+3.  **The vase on the side table is empty. There are two flowers on the floor, one red and one blue. I need to place one flower in the vase. Which flower should I choose and why?**
+    *   Justify your decision and explain the steps involved in picking up the flower and placing it in the vase.
+
+This scenario requires the LLM to interpret the image, identify the objects, understand the functionalities of a robotic arm, and then infer the necessary actions for a mobile robot to prepare the living room. By analyzing the image and providing the answers with step-by-step approaches, the LLM demonstrates its embodied AI capabilities."
+https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario: 
+
+You are a **mobile robot** tasked with making the bed in this room. You have two arms and a gripper on each hand. You can perceive the world through your sensors and can move freely around the room. 
+
+## Questions:
+
+1. **What is the first thing you should do to make the bed?**
+2. **How would you arrange the pillows on the bed?** (Assume you have access to all the pillows in the image)
+3. **How would you ensure the blanket is properly placed on the bed?**
+4. **What are the potential obstacles you might encounter while making the bed? How would you avoid them?** 
+5. **How would you tell if the bed is made properly? What are the criteria you would use?**"
+https://images.unsplash.com/photo-1600320254374-ce2d293c324e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a **robot taxi driver**. A customer has requested a ride from their current location to a destination that you're not familiar with. You need to navigate to their pickup location, using the available tools in your car, and ask the customer for further directions once you reach them.
+
+## Questions:
+
+1. **What information do you need to gather from the customer in order to start the ride?** (How would you approach this task? What steps would you take?)
+2. **How would you know when you've reached the customer's pickup location?** (What are the possible cues you might use to identify the location based on the image?)
+3. **What specific actions should you take when you arrive at the customer's pickup location?** (List the actions in a step-by-step manner.)"
+https://i.pinimg.com/564x/73/cd/36/73cd36dad8eef9fef3d99b3529655f38.jpg,"## Scenario:
+
+You are a maintenance robot tasked with performing routine car maintenance. You are equipped with a robotic arm with a gripper, a visual sensor to perceive the environment, and a pump to deliver fluids. You need to add motor oil to the car engine.
+
+
+## Questions:
+
+1. **What is the first step you need to take to add oil to the car engine?** (This question requires the robot to identify the oil bottle and the engine opening.)
+2. **How would you proceed to pour oil into the engine?** (This question requires the robot to reason about the physical action of pouring and the location of the engine opening.)
+3. **What would you do after pouring oil into the engine?** (This question requires the robot to infer the next step in the maintenance process, which might involve checking the oil level or closing the engine opening.)"
+https://i.pinimg.com/564x/8d/b1/c2/8db1c234321576556f1060906aabcc31.jpg,"## Scenario:
+
+You are a construction robot tasked with transporting a large, rectangular object (like a metal bin) from the left side of the tunnel to the right. There are workers on the left and right sides, and a large truck in the middle of the tunnel. 
+
+## Questions:
+
+1.  **How would you navigate around the truck and workers to reach the object on the left side?** (This requires the LLM to analyze the image and understand the potential paths)
+2.  **What are the steps you would take to safely lift and transport the object to the right side of the tunnel?** (This requires the LLM to infer the robot's capabilities and potential actions for lifting and moving the object)
+3.  **What potential obstacles might you encounter during transport, and how would you address them?** (This encourages the LLM to consider the dynamic environment and potential issues like workers moving or the truck blocking the path)"
+https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+Imagine you are a **maintenance robot** tasked with inspecting and fixing electrical systems. You have been sent to a residential building to investigate a recent power outage. You enter the electrical panel room and see the image you are provided. 
+
+## Questions:
+
+1. **What is the most likely cause of the power outage based on the image?** 
+   * **Step-by-step approach:**
+    * Examine the image for any obvious signs of damage or malfunction.
+    * Focus on the electrical components visible in the image, especially the circuit breakers and wiring.
+    * Consider common causes of power outages and how they might be reflected in the image.
+2. **Describe how you would approach the issue and what actions you would take to solve the problem.**
+   * **Step-by-step approach:**
+    * Based on your assessment of the most likely cause of the power outage, identify the specific component that needs attention.
+    * Explain the steps involved in accessing and inspecting the identified component.
+    * Describe how you would use your robotic capabilities to safely perform necessary repairs or adjustments.
+3. **What additional information or tools would you need to confidently determine and resolve the power outage issue?**
+   * **Step-by-step approach:**
+    * Identify any limitations or blind spots based on the image.
+    * Consider tools or information that would enhance your diagnosis and repair process.
+    * Explain how these additional resources would be helpful in making a more accurate assessment."
+https://images.pexels.com/photos/2898199/pexels-photo-2898199.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a robotic utility worker (think of a robot similar to Boston Dynamics' Spot robot with a manipulator arm), and you need to replace a damaged component on the utility pole. 
+
+## Questions:
+
+**Q1.** What is the first step you would take to access the damaged component? Explain the specific actions needed to accomplish this step.
+
+**Q2.**  After accessing the component, describe the next steps involved in replacing it. Be sure to consider the tools and actions necessary to complete the task safely and efficiently. 
+
+**Q3.**  If you were unable to reach the damaged component using your current manipulator arm, what adjustments would you need to make?"
+https://images.pexels.com/photos/5691553/pexels-photo-5691553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario: 
+
+You are a construction robot (humanoid) tasked with helping a human worker build a piece of furniture. Your human partner has placed a piece of wood on a set of sawhorses and is currently measuring and marking the wood. 
+
+## Questions:
+
+1. **What tools do you think your human partner might need next, based on the image?**
+    * **Reasoning:**  Explain how you determined what tools the human might need based on the image.
+    * **Steps:** Describe the steps you would take to prepare the tools and hand them to the human.
+
+2. **What might be the next steps for your human partner in building the furniture?**
+    * **Reasoning:** Analyze the image to understand the current stage of the furniture construction process. 
+    * **Steps:** Describe the next steps you would predict your human partner will take.
+
+3. **What would you do to help your human partner complete the next step?**
+    * **Reasoning:** Based on your analysis of the image, explain how your actions can help. 
+    * **Steps:** Describe the actions you would take to assist the human."
+https://plus.unsplash.com/premium_photo-1664372599661-980082db8b0f?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a **sewing robot** helping a human tailor. Your human partner has just finished sewing a button onto a piece of fabric, and now asks you to help her prepare the fabric for the next step. She needs to sew a buttonhole. 
+
+## Questions:
+
+1.  What are the next steps you should take to help your partner prepare the fabric for sewing a buttonhole?
+2.  Your partner needs to sew a buttonhole close to the button. How can you use the items in the image to measure the distance between the button and where the buttonhole needs to be? 
+3.  Your human partner needs to make a small cut in the fabric to start the buttonhole. How can you help her? 
+4.  What are the tools required to create the buttonhole? 
+5.  Your partner needs to sew the buttonhole. How can you help her?
+
+These questions test the LLM's ability to reason about a real-world scenario, requiring it to analyze the image and infer details about the objects present and their functionalities. The questions focus on physical actions, testing the LLM's embodied question-answering capabilities, and ask for step-by-step approaches to simulate the process."
+https://images.pexels.com/photos/5768217/pexels-photo-5768217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a **construction robot** tasked with assembling a door frame. You are equipped with a drill, a hammer, and a set of hinges. You have already placed the frame on a work surface and are now attaching the hinges.
+
+## Questions:
+
+1.  **What is the next step you should take to complete the assembly of the door frame?**  (This question requires the robot to identify the next step in the assembly process based on the image.)
+2.  **How would you use the drill to complete this step?** (This question tests the robot's knowledge of tool usage in a physical context.)
+3.  **What are the different ways you can hold the hinge while drilling?**  (This question assesses the robot's understanding of different ways to manipulate objects.)
+4.  **Imagine you need to adjust the position of the hinge after drilling the first hole. How would you do it?** (This question probes the robot's ability to reason about adjustments and modifications.)
+5.  **What are the potential problems you might encounter while drilling the hinges?** (This question challenges the robot to anticipate potential issues and devise solutions.)"
+https://images.pexels.com/photos/4491858/pexels-photo-4491858.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2,"## Scenario:
+
+You are a **robotic assistant** in a woodworking shop. Your primary role is to assist the human carpenter with tasks related to preparing and assembling materials. 
+
+## Questions:
+
+1. **What is the human doing?** Describe the steps involved in the task. 
+2. **Identify the tools in the wooden box.**  Describe the purpose of each tool, and explain how they might be used in the current task. 
+3. **Where are the tools typically stored in a woodworking shop?** Explain why this is the preferred location. 
+4. **What steps could you take to help the human carpenter?** Explain your actions, considering the tools and the overall task. 
+5. **How would you retrieve the tools from the wooden box and hand them to the human carpenter?**  Describe the specific movements you would make to achieve this."
+https://images.unsplash.com/photo-1671790739076-91a00b737df9?q=80&w=1854&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a mobile manipulator robot tasked with helping a human mechanic fix a flat tire on a bicycle. You are equipped with a gripper that can manipulate objects and a camera for visual perception. The mechanic has provided you with a tire lever and a tube of sealant. 
+
+## Questions:
+
+1. **What object should you pick up first to help the mechanic fix the flat tire?** 
+2. **Where should you position the object you picked up in the first question?**
+3. **How would you use the object you picked up to help the mechanic fix the flat tire?** 
+4. **What should you do next after completing the task described in question 3?** 
+5. **How would you determine if the flat tire has been fixed?**"
+https://i.pinimg.com/564x/2a/84/ee/2a84ee47419ba3ac7802ec631bb5b62c.jpg,"## Scenario: 
+
+You are a mobile robotic arm with a gripper on your end effector. You are tasked with assisting the blacksmith in his work. Currently, he is heating a piece of metal on the anvil and needs to use a hammer to strike it.  
+
+## Questions:
+
+1. **What tools does the blacksmith need to complete his task?**  
+    *  Can you list the steps you would take to identify the necessary tools in the image?
+2. **Which tool is most likely to be used next by the blacksmith?** 
+    *  Explain the reasoning behind your choice.  What are the steps you would use to come to this conclusion?
+3. **How would you approach getting the hammer and handing it to the blacksmith?** 
+    *  Describe the actions you would take to reach the tool, grasp it, and move it to the blacksmith. 
+4. **Is there any tool in the image that you are unable to pick up with your gripper?**  
+    *  How did you reach that conclusion? What are the criteria you used to determine this?"
+https://i.pinimg.com/564x/0c/f3/0b/0cf30bf1cb5f74abf569c440a76cc5fd.jpg,"## Scenario:
+
+You are a **mobile robotic assistant** in a busy workshop. You are designed to help the worker with their tasks. You have a manipulator arm with a gripper that can grasp objects. Your vision system allows you to recognize common objects in the workspace and identify their positions. Your auditory system lets you hear the worker's instructions. The worker has just asked you to ""fetch the hammer from the bag and hand it to him.""
+
+## Questions:
+
+1. **What are the steps you would take to accomplish the task?**
+2. **How would you use your vision system to locate the hammer and the bag?**
+3. **Describe the process of grasping the hammer with your manipulator arm.**
+4. **How would you navigate to the worker's location and deliver the hammer?**
+
+This scenario presents a real-world task that requires a robot to reason about object locations, physical actions, and spatial navigation. The questions encourage the LLM to demonstrate its ability to understand the context, identify relevant objects, and devise a step-by-step plan to complete the task."
+https://i.pinimg.com/564x/89/63/86/896386aecfa63748ed38cbec6e5d9b5d.jpg,"## Scenario:
+
+You are a mobile robotic arm with a gripper hand, located in a woodworking shop. Your task is to help the woodworker by collecting tools from the wall and placing them on the workbench.
+
+## Questions:
+
+1. **What tools do you see hanging on the wall?**
+
+    * How would you go about identifying different types of tools?
+    * What features would you use to distinguish between them? 
+
+2. **The woodworker asks you to bring them the two longest chisels. How would you identify them?**
+
+    * What steps would you take to find the longest chisels?
+    * How would you measure their length?
+
+3. **The woodworker needs a file and asks you to bring the one closest to the bench. How would you locate and retrieve it?**
+
+    * How would you determine the file that is closest to the bench?
+    * What actions would you take to retrieve the file? 
+
+4. **How would you bring the chisel, located on the top shelf, to the workbench?**
+
+    * What challenges would you face?
+    * What steps would you take to overcome them?
+
+5. **The woodworker needs a small plane. Can you find one and place it on the bench?**
+
+    * What physical characteristics would you use to identify a small plane?
+    * Describe the steps involved in bringing the plane to the bench."
+https://i.pinimg.com/736x/e1/70/5b/e1705bb3736c2d9699f80bc76012b338.jpg,"## Scenario:
+
+You are a **mobile manipulator robot** tasked with assembling a wooden table for a customer. The customer has provided you with a set of plans and all the necessary materials, which are already located in the workshop. You need to identify the necessary tools and materials and assemble the table based on the customer's instructions.
+
+## Questions:
+
+1.  **What tools will you need to complete this task?**  Please list the tools and explain your reasoning based on the image and the task.  **Provide a step-by-step approach for identifying the tools based on the image.**
+2.  **Where would you find the wood for building the table?** **Provide a step-by-step approach for identifying the location of wood in the image.**
+3.  **Assuming the customer has requested a specific type of wood, how would you verify that you have the correct materials?**  **Provide a step-by-step approach for verifying the wood type based on the image.**
+4.  **How would you begin assembling the table?**  **Provide a step-by-step approach for starting the assembly process.**"
+https://images.unsplash.com/photo-1590880795696-20c7dfadacde?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a mobile robotic arm equipped with a gripper and a vision system, operating in a woodworking workshop. Your task is to assist the human carpenter by retrieving specific tools and delivering them to the work bench. 
+
+## Questions:
+
+1. **What is the tool that the human is likely to need next, and where is it located in the image?** 
+    
+    * **Reasoning required:** The robot needs to analyze the human's actions and the tools available in the image to infer what tool the human would likely need next.
+    * **Action required:** Identify the target tool, its location, and provide a step-by-step approach for navigating to the tool and retrieving it with the gripper.
+
+2. **Can you move the tool from its current location to the workbench?** 
+
+    * **Reasoning required:** The robot needs to understand the location of the workbench and the tool to plan the movement trajectory.
+    * **Action required:**  Provide a step-by-step approach for moving the tool to the workbench.  
+
+3. **What is the tool the human is currently using?**
+
+    * **Reasoning required:** The robot needs to identify the tool that the human is currently using by analyzing the image.
+    * **Action required:**  Identify the tool and provide a step-by-step approach for navigating to the tool and retrieving it with the gripper."
+https://i.pinimg.com/564x/cc/91/97/cc9197741cfae70578a3a70602e946f3.jpg,"## Scenario: 
+
+You are a mobile robot tasked with cleaning up a cluttered garage. The image shows a workbench with tools and supplies, as well as a motorcycle in the middle of the room. 
+
+## Questions:
+
+1.  **What is the first step you would take to clean up the garage?** (This requires the LLM to assess the situation and identify the most logical first action, which could be, for example, moving the motorcycle out of the way or starting to organize the workbench.) 
+2. **How would you move the motorcycle to a different location in the garage?** (This tests the LLM's ability to think about how a robot would interact with a physical object, considering the size and weight of the motorcycle.)
+3. **What tools would you need to clean the workbench and put the supplies away?** (This probes the LLM's knowledge of cleaning tools and its understanding of the objects present in the image.)
+4. **Describe the steps you would take to organize the workbench and put the supplies away.** (This assesses the LLM's ability to create a step-by-step plan for a complex task, involving multiple actions and object interactions.)"
+https://i.pinimg.com/564x/dd/94/1a/dd941a55b385ad44c89a54ef18517f93.jpg,"## Scenario: 
+
+You are a **mobile robot assistant** in a pottery workshop. Your task is to help the potter by fetching supplies and preparing the workspace. 
+
+## Questions:
+
+1. **The potter has requested a medium-sized bowl and a small, round container. Which shelf should you go to and which items should you select?** 
+2. **The potter needs to mix some clay. There is a large mixing bowl on the top shelf. How can you safely get the bowl down without disturbing the other items?**
+3. **The potter is preparing a new piece and needs a small, cylindrical tool to smooth the clay.  Where is it likely to be located, and how could you find it?**
+4. **The potter is done with their work and asks you to clean up the workspace. Describe the steps you would take to clean up the workspace using the items available in the image.**"
+https://i.pinimg.com/564x/03/aa/10/03aa10575c604d9a31a52311f8506a89.jpg,"## Scenario:
+
+Imagine you are a robotic arm tasked with cleaning this workspace. You are equipped with a set of tools: a small vacuum cleaner, a rag, and a bottle of cleaning solution. 
+
+## Questions:
+
+1.  **What would be the first step in cleaning the workspace?** Explain your reasoning and outline the steps involved in performing this step. 
+2.  **How would you ensure that the cleaning solution is not sprayed onto the tools and equipment on the workbench?** Provide a step-by-step process to avoid this, considering your limitations as a robotic arm.
+3.  **After cleaning the workbench, how would you proceed to clean the chair?** Outline the steps in detail, including the specific movements you would make and any precautions you would take. 
+4.  **The small vacuum cleaner is too heavy for you to lift and use on your own. How would you use the available resources to clean the floor?** Explain your reasoning and propose a solution, taking into account the limitations of a robotic arm."
+https://images.unsplash.com/photo-1551601651-2a8555f1a136?q=80&w=2047&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario: 
+
+You are a surgical robot assisting a team of surgeons in an operating room. You have two arms, each with a specialized tool for performing specific surgical tasks. Your primary function is to assist the surgeons by performing tasks that require precision and dexterity, such as holding instruments or manipulating tissues. 
+
+## Questions:
+
+1. **What are the two tasks that the surgeons are performing in this image?** 
+    * Give a step-by-step approach to identify these tasks.
+2. **Which task would you be able to assist with, based on your capabilities?**
+    * Explain how you would perform this task.
+3. **How could you help the surgeons perform the other task, even though you might not be able to directly perform it yourself?**
+    * Provide a step-by-step approach to accomplish this."
+https://images.unsplash.com/photo-1579154491915-611e891d3a5b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a surgical robot assistant in an operating room. You are tasked with assisting the surgeons with their tasks. The surgeons are performing a complex surgery on a patient. 
+
+## Questions:
+
+1. What kind of surgical instruments do you see the surgeons using? How could you help them use these instruments efficiently?
+2. What is the patient's position on the operating table? Is there anything you can do to help them stay comfortable during the surgery?
+3. Describe the lighting conditions in the operating room. How could you adjust the lighting to improve the surgeons' view of the surgical site?
+4. Describe the workflow of the surgeons in the operating room. How could you contribute to a smooth and efficient workflow?
+5. How can you ensure that the operating room is sterile and safe for the patient and the medical team?"
+https://images.unsplash.com/photo-1580281657702-257584239a55?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario: 
+
+You are a mobile robotic assistant in a hospital room. You are tasked with assisting a nurse in preparing a patient for a medical procedure. 
+
+## Questions:
+
+1. **What is the first thing you would do to help prepare the patient for the procedure?**
+
+2. **How would you move the bed to make more space for the nurse to work?**
+
+3. **How would you ensure that the patient is comfortable during the procedure?**"
+https://i.pinimg.com/564x/63/8e/ec/638eec0ae6a5f82af2cc5a7157a659c2.jpg,"## Scenario:
+
+You are a surgical robotic arm assisting in an operating room. Your task is to prepare the surgical field for the procedure. 
+
+## Questions:
+
+1.  **What are the first steps you should take to prepare the surgical field?** 
+2.  **How can you identify and separate the instruments needed for the procedure?** 
+3.  **How do you ensure the sterility of the surgical field and the instruments?**
+4.  **What should you do with the surgical instruments once the procedure is complete?** 
+5.  **Based on the image, what type of surgery is likely being performed?**"
+https://images.unsplash.com/photo-1561328635-c1c6ad1753b0?q=80&w=2011&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"Scenario: You are a surgical robot assistant in an operating room. Your primary task is to assist the surgeon by fetching and handing them the necessary instruments. You are equipped with a robotic arm and a gripper that can pick up and place objects.  
+
+Questions: 
+
+1. The surgeon needs the instrument with the blue handle. How would you go about retrieving and handing it to them? Describe your steps in detail.
+2. The surgeon asks for the instrument that is partially visible in the top right corner of the image. How would you approach the task of fetching this instrument?"
+https://i.pinimg.com/736x/6e/5b/6a/6e5b6ad261d25befe81655831cbd2b5f.jpg,"## Scenario:
+
+You are a laboratory assistant robot, tasked with preparing a sample for analysis under a microscope. You need to prepare a blood sample to be observed under a microscope. The microscope and all necessary equipment are readily available in the lab. 
+
+## Questions:
+
+1.  **What are the steps you need to take to prepare the blood sample for analysis under the microscope?**
+2.  **What are the specific equipment and tools you need to use during the preparation process?**
+3.  **How would you ensure that the blood sample is correctly positioned on the microscope slide?**
+4.  **After preparing the sample, what are the steps you would take to operate the microscope?** 
+5.  **Assuming the microscope has a camera attachment, how would you capture an image of the sample for further analysis?**"
+https://i.pinimg.com/564x/d7/6a/c9/d76ac9c3ec29cd4924ed9c5c9ab83c41.jpg,"## Scenario:
+
+You are a robotic arm on an assembly line. You are responsible for welding the doors onto the car chassis. The cars are moving down the line, and your job is to weld the doors on as they pass by. 
+
+## Questions:
+
+1. **How would you identify the location of the car doors that need to be welded?** 
+2. **What are the steps you would take to weld the doors onto the car chassis?** 
+3. **How would you ensure that the doors are properly welded and positioned?**
+4. **What kind of feedback would you need from the environment to know that you have successfully welded the doors?** 
+5. **If you encountered a malfunction, how would you handle the situation?**"
+https://i.pinimg.com/564x/75/de/ef/75deef2416c46563866c30d705bb15e9.jpg,"## Scenario:
+
+You are a robotic arm in a factory, similar to the one in the picture. Your task is to pick up a piece of glass from the conveyor belt and place it into the next machine. The machine requires you to move the glass exactly to the center of the machine's opening.
+
+## Questions:
+
+1. **How would you identify the piece of glass on the conveyor belt?** What are the steps involved in this process? 
+2. **How would you move your robotic arm to grab the glass from the conveyor belt?** Describe each step.
+3. **Once you have the glass in your grip, how would you determine the center of the machine's opening?** Explain your steps. 
+4. **How would you move the glass to the center of the machine's opening?** Detail the steps involved in this movement. 
+5. **After placing the glass in the machine's opening, how would you return to your original position?** Explain your steps."
+https://i.pinimg.com/564x/66/1a/1f/661a1f200f80cc965b600fdc178ad3b7.jpg,"## Scenario:
+
+You are a robotic arm mounted on a mobile platform, tasked with tending to a lettuce farm in a greenhouse. You can move around the greenhouse, extending your arm to interact with the plants. 
+
+## Questions:
+
+1. **How would you identify a plant that needs watering?** 
+2. **Describe the steps you would take to water a plant using the provided tools.** 
+3. **How would you avoid bumping into other plants or equipment while moving around the greenhouse?** 
+4. **If you encounter a plant with a damaged leaf, how would you remove it?** 
+5. **If you need to collect a sample of lettuce for inspection, explain how you would approach this task.**"
+https://i.pinimg.com/564x/40/98/8c/40988c4a3bb4aca59a37b308a8dfd76f.jpg,"## Scenario:
+
+You are a robotic arm equipped with a water sprayer in an indoor vertical farm. Your job is to ensure that all the plants are adequately watered. 
+
+## Questions:
+
+1. **What is the most efficient way to water all the plants?** 
+    * Step-by-step approach: 
+        * Observe the layout of the plants.
+        * Determine the most efficient pattern to cover all the plants.
+        * Adjust the water pressure based on the distance and plant type.
+        * Execute the watering pattern while monitoring for any obstructions.
+
+2. **What are the potential risks of not watering the plants efficiently?** 
+    * Step-by-step approach: 
+        * Analyze the impact of insufficient water on plant growth. 
+        * Consider the potential for plant wilting or death.
+        * Evaluate the effect on the farm's overall productivity.
+
+3. **How would you adapt your watering strategy if the farm layout changes?**
+    * Step-by-step approach: 
+        * Analyze the new layout and identify any significant changes.
+        * Re-evaluate the most efficient watering pattern. 
+        * Adjust the water pressure and movement accordingly.
+        * Ensure that all plants are adequately covered."
+https://i.pinimg.com/564x/76/17/a6/7617a66cf1ae923c38c2cf02741cc302.jpg,"## Scenario:
+
+You are a wheeled delivery robot tasked with delivering a package to a customer in this garden. The customer is waiting at the end of the row of plants, near the tall building. You need to navigate the garden to reach the customer, avoiding obstacles and people.
+
+## Questions: 
+
+1. **What is the best route to take to reach the customer?**
+2. **Describe the steps you would take to avoid hitting any obstacles along your path.**
+3. **If a group of people is blocking your path, what actions could you take to continue your journey?**
+4. **You notice a puddle of water on the ground. How would you adjust your path to avoid it?**
+5. **What is the safest way to navigate around the person watering the plants?**"
+https://i.pinimg.com/564x/b4/66/5d/b4665d5a811d851ea4a6a4823e8d28e0.jpg,"## Scenario:
+
+You are a mobile robot tasked with helping out at a community garden. You arrive to see four humans working on planting a row of seedlings. 
+
+## Questions:
+
+1. **What task is the robot expected to help with based on what it sees in the image?** 
+2. **Based on the image, what are the possible actions that the robot could take to help with the task?** Describe each action step by step, including how the robot might use its sensors and actuators.
+3. **If the robot's primary objective is to help the humans plant seedlings, what action should the robot take first?** Explain your reasoning and describe the action step by step. 
+4. **What tools would the robot need to perform the task?** 
+5. **What limitations might the robot face in performing the task based on the image?**"
+https://i.pinimg.com/736x/6d/d1/20/6dd120359497f21bcef37a1e1119d70e.jpg,"## Scenario:
+
+You are a soccer-playing robot tasked with scoring a goal. You are in a soccer field, with a soccer ball in front of you and a goal in the distance.
+
+## Questions:
+
+1. **What are the steps you need to take to get the ball into the goal?**
+2. **How would you determine if the ball is moving towards the goal?**
+3. **What would you do if the ball is rolling away from the goal?** 
+4. **How would you move the ball toward the goal?**
+5. **How would you kick the ball to make it go into the goal?**"
+https://i.pinimg.com/736x/39/4a/85/394a8514c21be4c0fc80e3d2a9879019.jpg,"## Scenario: 
+
+You are a humanoid robot tasked with organizing a sports day for the local community. You have been provided with a box of sporting equipment (shown in the image) and need to prepare for the events. 
+
+## Questions:
+
+1.  **What are the different sports you can organize using the equipment?** 
+    - How would you determine the necessary equipment for each sport?
+    - What are the steps you would take to set up each sport?
+
+2. **You need to choose two sports that can be played by the maximum number of participants simultaneously.**
+    - Which two sports would you choose?
+    - How would you identify the sports that have the highest participant capacity?
+    - Explain your reasoning.
+
+3. **Considering the size of the equipment box and the number of sports, what would be your strategy for storing the equipment efficiently?**
+    - How would you use the image to understand the size and shape of the equipment?
+    - How would you categorize and arrange the equipment for easy access? 
+
+4. **Imagine you are tasked with explaining the rules of one of the sports to the participants. Which sport would you choose and how would you explain the rules using the image?**
+    - How would you identify the sport with the simplest set of rules?
+    - How would you point to specific elements in the image to illustrate the rules? 
+    - Explain your approach."
+https://i.pinimg.com/736x/54/68/71/546871d643fea194ad261d02f5a4a129.jpg,"## Scenario:
+
+You are a **household robot assistant** tasked with keeping your owner's home tidy and organized. You are equipped with a manipulator arm and the ability to grasp and move objects. Your owner has recently purchased a new exercise bike and is quite excited about it, but they have been struggling to put it together. 
+
+## Questions:
+
+**1.** Your owner has asked for your help to assemble the exercise bike. Looking at the image, how would you go about doing this? Provide step-by-step instructions for assembling the bike.
+
+**2.** Your owner is concerned about the weights that came with the exercise bike, they are lying on the floor. To prevent them from rolling away, what would you do to keep them organized?  
+
+**3.** After a workout, the owner asks you to clean the exercise bike and the floor. You see a cleaning solution on the side table. How would you use it to clean the bike and the floor? Provide a step-by-step approach."
+https://i.pinimg.com/564x/80/e8/f1/80e8f12a36f3875bb49e4440144b6a6b.jpg,"## Scenario:
+
+You are a **robotic fitness trainer** in a gym. A new client has just arrived and wants to learn how to climb a rope. You need to help them understand the proper technique. 
+
+## Questions:
+
+1. **What should the client do first?**
+    - What steps should the robot take to help the client understand the first step? 
+2. **What should the client avoid doing?**
+    - What steps should the robot take to help the client understand what they should avoid? 
+3. **What is the next step after the client has a good grip on the rope?**
+    - What steps should the robot take to help the client understand the next step? 
+4. **How can the client make climbing the rope easier?**
+    - What steps should the robot take to help the client understand how to make the process easier? 
+5. **How can the client ensure they are climbing the rope safely?**
+    - What steps should the robot take to help the client understand how to climb safely?"
+https://i.pinimg.com/736x/ca/c9/ad/cac9ad969de0e48f93b9e6d3c0a547bd.jpg,"## Scenario: 
+
+You are a  **robotic personal trainer** in a gym. You are tasked with helping people with their workouts.  A new client has arrived and wants to know how to use the training equipment in the gym.  
+
+
+## Questions:
+
+1. **How many different types of training equipment are there in the gym?** *(This question tests the LLM's ability to identify distinct objects and group them by type. The answer should be based on the visual information in the image.)*
+
+2. **The client wants to use the equipment in the middle of the gym with the yellow ropes hanging down. Describe how they should use the equipment for a workout.** *(This question tests the LLM's ability to infer how a piece of equipment is used based on its visual appearance. The LLM should describe the actions required to perform a workout.)*
+
+3. **The client also wants to use the equipment in the corner of the gym with the yellow metal structure and the weights. Explain the steps they should take to use this equipment for a workout. ** *(This question requires the LLM to infer the functionality of the equipment based on its visual appearance and to describe the steps required for its use. )*"
+https://i.pinimg.com/564x/f5/a3/e1/f5a3e18afc34f4362d839515c0e2ad28.jpg,"## Scenario:
+
+You are a mobile robotic assistant in a home gym. Your task is to help the user exercise by finding them equipment, bringing them water, and offering encouragement. The user is currently working out with a barbell. 
+
+## Questions:
+
+1. **The user asks for a bottle of water.  Where should you go to find one? Explain your reasoning.**
+2. **The user wants to perform a bicep curl exercise. Which piece of equipment should you bring to them? Explain your reasoning.** 
+3. **The user asks for a yoga mat. What steps should you take to find and bring the mat to them?** 
+4. **The user is struggling to lift the barbell. What steps could you take to help them?**"
+https://images.unsplash.com/photo-1527694224012-be005121c774?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario: 
+
+You are a mobile robotic assistant designed to help with household tasks. You are in a living room and see a blanket hanging on a ladder. Your owner has requested you to fold the blanket and place it on the side table. 
+
+## Questions:
+
+1.  **Describe the steps you would take to fold the blanket and place it on the side table.**
+2.  **What challenges might you encounter while performing this task, and how would you overcome them?**
+3.  **How would you ensure the blanket is folded neatly and placed on the table without any damage?**"
+https://images.unsplash.com/photo-1445510861639-5651173bc5d5?q=80&w=1959&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a mobile robot tasked with rearranging furniture in this room. 
+
+## Questions:
+
+1.  **Identify the items in the room that could be considered furniture. Describe each item and its location in the image.**
+2. **You need to move the armchair closer to the fireplace. Describe the steps you would take to do so.** 
+3. **If you were to move the wooden chair with the cushion on it to the left of the fireplace, describe the steps you would take to move it.**
+4. **How would you approach the task of cleaning the room? List the steps you would take, based on what you can observe in the image.**
+
+These questions require the LLM to identify objects, reason about their properties and functionality, and then plan a series of actions to interact with them, simulating embodied reasoning."
+https://images.unsplash.com/photo-1501876725168-00c445821c9e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario: 
+
+You are a **mobile robot** tasked with preparing a comfortable space for a guest arriving soon. The guest is expected to relax on the couch and read a book. 
+
+## Questions: 
+
+1. **What objects should be moved to make the couch area more comfortable?** 
+   * How would you move these objects? 
+   * Explain your reasoning for choosing these objects to be moved. 
+2. **Where should the book be placed for the guest to access it easily?**
+   * Provide a step-by-step explanation of how you would move the book to that location. 
+3. **What actions can be taken to make the couch area more welcoming for the guest?**
+   * Briefly describe the steps you would take to perform these actions."
+https://i.pinimg.com/564x/35/b6/77/35b67799f83c3c5a5e089e0b16081ca4.jpg,"## Scenario:
+
+You are a robotic arm in a factory, tasked with picking up and placing a small, rectangular object from one conveyor belt to another. The object is currently on the left side of the image, moving along the conveyor belt. Your goal is to transport it to the right side of the image onto a different conveyor belt. 
+
+## Questions:
+
+1. **What is the first step you need to take to move the object?** 
+2. **How would you ensure that you pick up the object without dropping it?** 
+3. **What adjustments do you need to make to your position to reach the other conveyor belt?** 
+4. **How would you carefully place the object onto the other conveyor belt?** 
+5. **What are the potential challenges you might face during this task, and how would you overcome them?**"
+https://i.pinimg.com/564x/2a/a6/6a/2aa66a484d1639deec6003204efaea1f.jpg,"## Scenario:
+
+You are a **mobile robotic arm** tasked with assembling a car on a production line. You are equipped with a camera and sensors that provide you with a full visual understanding of your surroundings. You need to move along the production line, identify different parts, and assemble them to create a car.  
+
+## Questions:
+
+1. **What is the first step in the assembly process?**  (Answer should describe a specific part of the image that can be identified as the beginning of the process.) 
+2. **How would you identify the different parts of the car?** (The answer should demonstrate an understanding of how a robot could identify objects using visual information.)
+3. **Describe the steps you would take to pick up and install a car window onto the car frame.** (The answer should describe the specific actions needed to perform this task.)
+4. **Explain how you would ensure that the car window is correctly installed.** (The answer should demonstrate an understanding of quality control and how a robot could assess the quality of its work.)
+5. **How would you move to the next car in the production line after completing the assembly of this car?** (The answer should demonstrate an understanding of navigating a production line and how a robot could move to the next stage.)"
+https://i.pinimg.com/564x/13/6e/d2/136ed2a2b6087f64140d22eb1f36846c.jpg,"## Scenario:
+
+Imagine you are a **mobile robotic arm** in a garment factory, tasked with helping seamstresses with their work. You can move around the factory, pick up and drop objects, and interact with machines.
+
+## Questions:
+
+1. **A seamstress needs a new spool of thread. Where should you go to get it?** *(The LLM needs to identify the spool of thread in the image, and understand the location of the seamstress.)*
+
+2. **The seamstress needs to thread the sewing machine, but the needle is broken. How would you help her get a new needle?** *(The LLM needs to identify the sewing machine, and infer that a new needle might be located near it or in a specific area.)* 
+
+3. **You need to take a finished garment to the next station. How would you move it to the next sewing station?** *(The LLM should infer that finished garments are likely placed in the wire baskets and need to be transported to another station.)*
+
+4. **One of the sewing machines is running hot. How would you help the seamstress cool it down?** *(The LLM should recognize the potential for a sewing machine to overheat, and suggest a solution like bringing a fan or finding a way to stop the machine.)*
+
+5. **The seamstress needs help loading new fabric onto the cutting table. How would you help her?** *(The LLM should identify the cutting table and understand that fabric needs to be placed on it.)*"
+https://i.pinimg.com/564x/56/5d/77/565d771bb998d7a2b55c7cb8e72d8041.jpg,"## Scenario: 
+
+You are a delivery robot tasked with bringing a package to the person sitting on the upper floor.
+
+## Questions:
+
+1. **What steps would you take to get to the upper floor?**
+2. **How would you navigate the stairs to reach the upper floor?**
+3. **How would you identify the person to whom the package is addressed?** 
+4. **What is the safest and most efficient way to deliver the package to the person on the upper floor?**"
+https://i.pinimg.com/736x/45/31/dc/4531dc28d19bafb05f7ccbe00858ea71.jpg,"## Scenario: 
+
+You are a delivery robot tasked with delivering a package to the customer at the store. The package is currently on the shelf near the back wall, and the customer is sitting in the chair near the front. You need to navigate through the store and deliver the package to the customer.
+
+## Questions:
+
+1. How would you approach the customer? What steps would you take to get the package to the customer?
+2. What objects in the store would you need to avoid while navigating? 
+3. What obstacles would you need to overcome to reach the customer? 
+4. If the customer is not available, how would you handle the delivery?
+5. Is there anything else that could be challenging in this situation?"
+https://i.pinimg.com/564x/d1/0a/a0/d10aa0fe0d7eb25675bedbc4cb7a96a3.jpg,"## Scenario:
+
+You are a **mobile robotic arm** tasked with assisting the mechanics at a racing team garage. You are equipped with a gripper capable of lifting objects up to 5 kg and a camera that provides you with a 360-degree view of the garage. 
+
+## Questions:
+
+1. **Question:** One of the mechanics has dropped a wrench near the car in the middle of the garage. Can you identify the wrench and pick it up? How would you approach this task step-by-step?
+2. **Question:** The team needs to move the car on the right to make space for a new vehicle. Can you identify a suitable jack and explain how you would use it to lift the car?
+3. **Question:** The team needs to change a tire on the car in the middle of the garage. You have been instructed to bring them a new tire from the rack on the left side of the garage.  Describe how you would locate the tire rack and retrieve a new tire, step by step. 
+4. **Question:**  Can you identify the tools that are typically used to change a tire, like a wrench or a lug nut remover? Where are these tools usually located in a racing team garage, and how would you retrieve them?"
+https://i.pinimg.com/564x/b1/19/3f/b1193f54b568581896b8a3789ce74be9.jpg,"## Scenario:
+
+You are a **mobile robotic arm** tasked with assembling a large, complex machinery. The machinery is currently in a disassembled state, with various components spread around a workspace.  
+
+## Questions: 
+
+1. **Identify the missing components from the image that would be needed to complete the assembly of the machinery.** Explain your reasoning for choosing these components.
+2. **Based on the image, explain how you would move the components into position to complete the assembly. Provide a step-by-step plan, including the actions you would take to grasp and manipulate the components.**
+3. **Describe the challenges you would face while performing this assembly task. What kind of sensors would you need to navigate the workspace effectively and avoid collisions?** 
+4. **How would you verify that the assembly is completed correctly? What actions would you take to check for any errors or misalignments?**"
+https://i.pinimg.com/564x/d7/6a/c9/d76ac9c3ec29cd4924ed9c5c9ab83c41.jpg,"## Scenario:
+
+You are a robotic arm working on an automotive assembly line. Your job is to weld the car body. 
+
+## Questions:
+
+1. Describe how you would know when to start welding the car body. What visual cues would you use to identify the correct position and moment to begin? 
+    - Step 1: Identify the car body by its shape and size. 
+    - Step 2: Look for any visual markers or sensors on the car body indicating the welding locations.
+    - Step 3: Monitor the movement of the car body on the assembly line, and identify a point where the body is stationary and the welding position is accessible. 
+2. How would you weld the car body? What physical actions would you take, and what specific tools would you use? 
+    - Step 1: Extend your welding arm to the designated position on the car body.
+    - Step 2: Activate the welding torch or tool.
+    - Step 3:  Precisely follow the welding pattern or instructions provided, moving the torch along the designated areas.
+    - Step 4: Once the welding process is complete, retract the arm back to its resting position. 
+3. What are some potential challenges or risks you might encounter while performing your welding task? 
+    - Step 1:  Interference from other robotic arms or workers on the assembly line.
+    - Step 2: Incorrect positioning of the car body or the welding tool.
+    - Step 3:  Malfunction or error with the welding equipment or tools. 
+    - Step 4:  Unsafe work environment, such as overheating or sparks from the welding process."
+https://i.pinimg.com/564x/e3/43/12/e3431238f6e919b912f7113b263426b2.jpg,"## Scenario:
+
+You are a robotic arm in a car manufacturing plant. You have been programmed to take a specific car chassis from the assembly line and place it on a designated platform. You are equipped with sensors to detect objects and a gripper to pick up and place the car chassis.
+
+## Questions:
+
+1.  **How would you identify the specific car chassis that needs to be picked up?**  Explain your reasoning and describe the steps you would take.
+2.  **How would you navigate the arm to reach the car chassis?**  Explain the steps you would take and the information you would use to guide your movements.
+3.  **What movements would you make to lift the car chassis from the assembly line?** Describe each movement and how you would adjust the grip on the car chassis.
+4.  **How would you move the car chassis to the designated platform?**  Describe the steps you would take to avoid obstacles and ensure safe transportation.
+5.  **Once you reach the designated platform, how would you lower the car chassis safely?**  Explain the steps you would take and the considerations for positioning the car chassis."
+https://i.pinimg.com/736x/bc/68/ee/bc68ee86948cfbb3bfffcc3c79d42d79.jpg,"## Scenario: 
+
+You are a **robotic arm** in a steel mill. Your task is to move molten steel from the ladle to the mold.  You are equipped with sensors to detect the temperature of the molten steel and the position of the mold. 
+
+## Questions:
+
+1.  How would you determine the position of the ladle? 
+2.  How would you determine if the molten steel is at a safe temperature to be poured into the mold? 
+3.  What steps would you take to move the ladle over the mold and pour the molten steel? 
+4.  How would you ensure that the molten steel is poured evenly into the mold? 
+5.  What could you do to prevent spills or accidents during the pouring process?"
+https://i.pinimg.com/564x/d9/e8/df/d9e8df0f612d7c2191c2105b25290fe3.jpg,"## Scenario:
+
+You are a mobile robotic arm, tasked with moving boxes from the shelves to a pallet on the floor. The pallet is located in the middle of the aisle. 
+
+## Questions:
+
+1. **What is the most efficient way to reach the pallet with boxes?** Explain your step-by-step approach, considering the layout of the shelves, the location of the boxes and the pallet, and any obstacles.
+
+2. **You need to collect boxes from the left side of the aisle. How would you approach this?** Describe your movement strategy, considering potential collisions with shelves or other boxes. 
+
+3. **There is a smaller box on a shelf too high to reach. How can you access it?**  Describe your approach for moving the box into your grasp, accounting for the height difference and any potential obstacles. 
+
+4. **You have a pallet full of boxes. What is the best way to maneuver around the shelves to safely exit the aisle?**  Provide a step-by-step strategy, considering the layout of the aisle and any potential obstacles."
+https://images.unsplash.com/photo-1508444845599-5c89863b1c44?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a delivery drone tasked with delivering a package to a remote location in the mountains. You have just taken off from your base and are heading towards your destination.  
+
+## Questions:
+
+1.  **What are some obstacles you might encounter while flying through the mountains?**
+2.  **How would you navigate around these obstacles to reach your destination safely?**
+3.  **What are the specific steps you would take to land safely and deliver the package?** 
+4.  **Describe how you would communicate with your base station to confirm the successful delivery of the package?**
+5.  **After delivering the package, how would you decide the best route to return to your base station?**"
+https://plus.unsplash.com/premium_photo-1703772891967-78a0630981cf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a **robotic arm** situated in a workshop, tasked with assisting a human potter in creating pottery. The human is currently working on making a cup and is using a clay molding tool. 
+
+## Questions:
+
+1. **What is the human holding in their hand?** (Requires the LLM to identify the object based on its shape and texture)
+2. **How can you help the human to create the cup?** (Requires the LLM to reason about how a robotic arm could assist with the task)
+3. **Give step-by-step instructions on how you would use the molding tool to make the cup.** (This requires the LLM to imagine the physical process of using the tool, and to describe the steps in a way that a robot could understand) 
+4. **What are the challenges you might face in assisting the human?** (Requires the LLM to consider the limitations of a robotic arm, such as precision and dexterity)
+5. **How would you safely handle the clay without damaging it?** (Requires the LLM to think about the physical properties of clay and how a robot could interact with it safely)"
+https://images.unsplash.com/photo-1601598704991-eef6114775e0?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a delivery robot tasked with fetching a specific type of beer for a customer. You are in a grocery store, navigating through aisles of various products, and you have a list of the items to be retrieved.  
+
+## Questions:
+
+1. **You need to locate a specific beer called ""Budweiser"" to fulfill the customer's order. Based on the image, where would you look for this brand of beer? What specific steps would you take to find it?**
+2. **There are multiple brands of beer in this aisle. Can you identify at least three other brands of beer based on the image?**
+3. **The customer's order also includes a six-pack of ""Almada"" beer. What steps would you take to locate and retrieve this specific item?**"
+https://images.unsplash.com/photo-1620388640785-892616248ec8?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario: 
+
+You are a mobile manipulator robot designed for warehouse work. You are tasked with moving a large sheet of plywood from the stack on the right side of the warehouse to the forklift on the left side. There is a person standing near the forklift. 
+
+## Questions:
+
+1. **How would you navigate the warehouse to reach the stack of plywood?** 
+    * **Step 1:** What is the shortest path to the plywood stack, avoiding any obstacles or people?
+    * **Step 2:**  Describe the specific actions you would take to avoid the person standing near the forklift. 
+    * **Step 3:** How would you maneuver around the forklift to reach the plywood stack?
+
+2. **How would you pick up the top sheet of plywood from the stack?**
+    * **Step 1:** What is the optimal grip for lifting the plywood sheet to avoid damage? 
+    * **Step 2:** How would you determine the weight of the plywood sheet and adjust your lifting technique accordingly?
+
+3. **How would you safely transport the plywood sheet to the forklift?**
+    * **Step 1:** How would you ensure the plywood sheet is stable during transport to prevent it from falling?
+    * **Step 2:** What actions would you take to avoid colliding with any obstacles or people during transport? 
+
+4. **How would you load the plywood sheet onto the forklift?**
+    * **Step 1:** How would you determine the optimal position to place the plywood sheet on the forklift?
+    * **Step 2:**  What is the best method to safely place the plywood sheet onto the forklift without causing damage?
+
+5. **How would you communicate with the person standing near the forklift to ensure they are aware of your actions?**
+    * **Step 1:** What types of visual or auditory signals could you use to communicate with the person?
+    * **Step 2:** How would you ensure your communication is clear and understandable to the person?"
+https://images.unsplash.com/photo-1605371924599-2d0365da1ae0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+Imagine you are a **mobile robot** working in a supermarket. Your task is to help customers find items and complete their shopping lists. A customer approaches you and asks for a specific brand of rice. You are equipped with a vision system and can identify the different types of rice in the image.  
+
+## Questions:
+
+1. **How would you identify the different types of rice in the image?**  
+2. **If the customer asks for a specific brand of rice that is not visible in the image, what would you do?** 
+3. **How would you guide the customer to the location of the requested rice?** 
+4. **What if the customer asks for rice that is not available in the supermarket? How would you respond?**"
+https://i.pinimg.com/564x/cf/df/a1/cfdfa1d4c70c6b2bec8e11c9eb381e9e.jpg,"## Scenario:
+
+You are a mobile robot assistant in a dive shop. Your primary goal is to help customers find the equipment they need and answer their questions about it. You can access and manipulate objects in the store, but you cannot move or rearrange any of the shelves or tools.  
+
+
+## Questions:
+
+1. A customer wants to buy a dive mask. They explain they are looking for a mask that fits their face well and comes with a comfortable strap.  What steps would you take to help them find the right mask?
+2. A customer needs a weight belt and wants to know if you have any in stock. They haven't specified a size. How would you find out if there are any weight belts in stock and what sizes they come in? 
+3. A customer wants to know how to properly inflate their BCD (Buoyancy Compensator Device). Describe the steps you would take to show them how to inflate it, using the equipment available in the image. 
+4. A customer asks you to help them pack their dive gear for their trip.  They have a backpack, a wetsuit, fins, a BCD, and a regulator.  How would you guide them on how to pack their gear efficiently?"
+https://i.pinimg.com/564x/0c/3b/d3/0c3bd3ddcd5dad6d1e44ca6c6c912444.jpg,"## Scenario: 
+
+You are a **mobile manipulator robot** working in a warehouse. Your task is to help the workers with their daily tasks. Today, a worker needs to pack some items and you need to assist him. You can move around the warehouse and pick up objects. 
+
+## Questions:
+
+1.  **Where should you place the items that the worker is holding in his hands?** 
+2.  **What steps should you take to get the box the worker needs?**
+3.  **Where should you place the box?**
+4.  **What else do you see that the worker needs?** 
+5.  **What steps should you take to give the worker the object?**
+6.  **Where should you take the object from?**"
+https://i.pinimg.com/564x/89/14/e9/8914e9b89a986610c5a362c631b16ad0.jpg,"## Scenario:
+
+You are a construction robot, responsible for delivering rebar to the construction workers at the site. You need to navigate through the partially constructed building to reach the workers.
+
+## Questions:
+
+1. **What is the most efficient route to reach the worker with the yellow vest?** (Assume you are a wheeled robot)
+2. **How would you maneuver around the steel bars and metal structure to reach the worker with the yellow vest?**
+3. **What are some obstacles you might encounter while moving the rebar across the site?** (Assume you are a robot with a manipulator arm to move the rebar)
+4. **Based on the image, how would you deliver the rebar to the worker with the yellow vest?** (Assume you are a robot with a manipulator arm to move the rebar) 
+5. **Assuming you are a robotic arm mounted on a platform, how can you reach the worker in the yellow vest with the rebar?**
+6. **Are there any areas in the image where you would need to adjust your height or position to avoid obstacles?** (Assume you are a robot with the ability to adjust your height and position) 
+7. **How would you avoid collisions with other workers while moving the rebar?** (Assume you are a robot with sensors to detect obstacles) 
+8. **Based on the image, which worker is most likely to be requesting the rebar, and why?** (Assume you are a robot with the ability to understand simple human gestures)
+
+These questions require the LLM to understand the image and analyze the environment, considering the physical limitations and capabilities of a robot to provide a reasonable answer. The questions are designed to assess the embodied AI capabilities of the LLM by requiring reasoning about physical interactions with the world."
+https://i.pinimg.com/564x/2f/c5/b4/2fc5b45a9990afc498fbf3bcd69ae496.jpg,"## Scenario:
+
+You are a construction robot assisting the workers on a building site. You are able to move around, lift objects, use tools and make observations. You have been instructed to help the workers install the steel reinforcement mesh for the foundation of a new building. 
+
+## Questions:
+
+1. **What is the first step you would take to help the workers install the mesh?** Describe your actions in detail, including how you would move around the site, what objects you would interact with, and how you would use your tools.
+
+2. **The workers are struggling to lift a heavy section of the mesh. How can you help them?** Describe your actions, considering the weight of the mesh and the available tools.
+
+3. **There is a gap in the mesh where a piece needs to be inserted. How would you help the workers to install the missing piece?** Explain your steps, considering the size of the gap and the need to ensure a strong connection between the pieces."
+https://plus.unsplash.com/premium_photo-1682144950635-a9518c090805?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a robotic arm working in an automotive assembly line. Your task is to pick up a car body from a conveyor belt and move it to the next station. You need to be careful not to damage the delicate body.
+
+## Questions:
+
+1. How would you grasp the car body? Describe the steps you would take to ensure a safe and secure grip.
+2. What is the most efficient path to move the car body to the next station, considering obstacles and space constraints?
+3. How would you adjust your movement to account for any potential sway or instability in the car body during the transfer?"
+https://i.pinimg.com/564x/6c/63/41/6c63418afbd37702ba73314027fb9851.jpg,"## Scenario:
+
+You are an industrial robot arm with a gripper.  You are positioned in a factory, ready to work on an assembly line.  This is the first time you are being put to work in this factory and your job is to pick up small parts from one conveyor belt and place them onto another conveyor belt, which will then take them to the next station for further processing.
+
+## Questions:
+
+1. **How would you know which parts to pick up?**  What would you look for on the conveyor belt?  How would you determine which parts are intended for your task?
+2. **How would you reach out to pick up a part?**  Describe the movements you would make with your robotic arm and gripper.  What are the things you need to consider to ensure you don't bump into any other parts or equipment?
+3. **How would you position the part on the other conveyor belt?**  What specific actions would you take to ensure the part is placed in the right location on the conveyor belt?
+4. **What would you do if there is a pile of parts on the conveyor belt?** How would you handle the situation if you need to take a part from a pile instead of a single part?
+5. **If a part was too large for your gripper to hold, what would you do?** How would you determine if a part is too big for you to handle? What would you do in that situation?"
+https://images.unsplash.com/photo-1676452442605-089cb23578c4?q=80&w=2065&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a mobile robot in a warehouse. Your task is to move a fragile object from one location to another, ensuring that it remains safe during transport. You are equipped with a manipulator arm, capable of picking up and placing objects. You are currently in front of several boxes labeled ""Fragile"" and a selection of various objects placed on shelves.
+
+## Questions:
+
+1.  **Identify the ""Fragile"" boxes in the image.** How would you go about identifying them as a robot? What visual cues would you look for?
+
+2. **Describe the object the woman is holding.**  What would be your approach to identify this object? How would you differentiate it from other similar objects in the warehouse?
+
+3. **How would you approach the object the woman is holding?** What are the steps you would take to pick up this object from the shelf and place it into a ""Fragile"" box? Would you need to use any special tools or techniques?
+
+4. **How would you ensure that the object stays in the box during transport?**  Describe the steps you would take to safely secure the object in the box. What actions would you take to minimize the risk of damage during transport?"
+https://i.pinimg.com/564x/ab/ef/b8/abefb80d19f832a9bae9c3f0ca9b5ca9.jpg,"## Scenario: 
+
+You are a cleaning robot tasked with cleaning a room. Your human owner has left a cleaning tool stand with a vacuum cleaner and other accessories, but they have not explicitly instructed you on how to use it. 
+
+## Questions:
+
+1. **How do you clean the room using the cleaning tools in the stand?**
+   - **Step-by-step approach:**
+     -  Analyze the image and identify the various components of the cleaning tool stand.
+     -  Determine the purpose of each component based on visual clues and common sense reasoning.
+     -  Deduce the appropriate order of operations for using the cleaning tools.
+     -  Describe the steps you would take to use the cleaning tools effectively. 
+2. **Where would you store the cleaning tool stand after you're done cleaning the room?**
+   - **Step-by-step approach:**
+     - Identify the possible locations in the image where the cleaning tool stand could be stored.
+     -  Consider the accessibility, safety, and practicality of each location.
+     -  Choose the best location for storage, justifying your choice based on the image and your reasoning.
+3. **If the cleaning tool stand is blocking your path while cleaning, what could you do?**
+   - **Step-by-step approach:**
+     -  Analyze the image to assess the current position of the cleaning tool stand.
+     -  Consider the available space and potential obstacles in the room.
+     -  Propose a safe and efficient method to move the cleaning tool stand to an unobstructed area.
+     -  Describe the physical actions you would take to execute this method."
+https://i.pinimg.com/564x/db/d2/60/dbd260963ba8f9a9f52d305936369f48.jpg,"## Scenario: 
+
+You are a cleaning robot tasked with cleaning the floor in this room.  
+
+## Questions:
+
+1.  **What would you do first to begin cleaning?**
+2.  **How would you move the bucket and mop to the floor?** 
+3.  **How would you approach cleaning the floor with the mop?** 
+4.  **Once the floor is cleaned, where would you place the mop and bucket?**"
+https://images.unsplash.com/photo-1522444195799-478538b28823?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario: 
+
+You are a mobile robotic dog-walker, navigating a living room with a  French bulldog. You are tasked to bring the dog's bed from the corner of the room and place it close to the window, so the dog can enjoy the sunlight. 
+
+## Questions:
+
+1. **What is the best way to get the dog's bed from the corner of the room to near the window?** 
+    *  *Step-by-step approach*
+2. **How do you ensure that the dog's bed is positioned in a safe and comfortable spot near the window?** 
+    *  *Step-by-step approach*
+3. **You notice a rug in the middle of the room. How do you avoid tripping over the rug while carrying the dog's bed?**
+    *  *Step-by-step approach*
+4. **You notice that the window blinds are closed. How can you open them to allow more sunlight in?**
+    *  *Step-by-step approach*"
+https://plus.unsplash.com/premium_photo-1678836292816-fdf0ac484cf1?q=80&w=2003&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+Imagine you are a **gardening robot** in a backyard. You are tasked with organizing the plants and tools in the image. 
+
+## Questions:
+
+1. **What is the first step you would take to organize the plants and tools?** 
+2. **How would you move the blue teapot without spilling its contents?**
+3. **You need to move the small flower pot from the left side of the image to the right side. How would you achieve this without damaging the plant?**
+4. **You need to remove the tool from the image, describe the steps to move it.**
+5. **You are instructed to separate all the tools from the plants. How would you do this?**"
+https://images.unsplash.com/photo-1611735341450-74d61e660ad2?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a gardening robot tasked with helping a young boy water the plants. You are equipped with a watering can that you can use to pour water and a mechanical arm that you can use to move objects. The boy is holding the watering can and needs your help to water the plants.
+
+## Questions:
+
+1.  **What should you do to help the boy water the plants?**
+    *  Provide a step-by-step approach.
+2.  **How can you ensure the plants get watered evenly?**
+    *  Provide a step-by-step approach.
+3.  **What might happen if the plants don't get enough water?**
+    *  Provide a step-by-step approach of what you would do to fix it."
+https://i.pinimg.com/564x/67/eb/fb/67ebfb5e098b6b4f72f1a0c3aa976bef.jpg,"## Scenario:
+
+You are a robotic lawnmower, tasked with maintaining the lawn of a residential house. You can perceive your surroundings through a camera and have the ability to move and manipulate objects within your immediate vicinity.
+
+## Questions:
+
+1. **Identify the human in the image. Is he doing something that might be beneficial or harmful to you?** 
+2. **What does the object in the human's hand look like?  Is it a tool you are familiar with?**
+3. **What are the possible reasons for the human's actions based on the image?** 
+4. **Considering your role as a robotic lawnmower, describe a plan of action you would take to ensure your safety and efficient operation in this scenario.**"
+https://i.pinimg.com/564x/09/95/44/09954421e6b4490c2697abcba09800a4.jpg,"## Scenario: 
+
+You are a mobile robot equipped with a robotic arm and a camera. You are in a yard and need to clear all the leaves. There are various leaf blowers lying around, each with different functionalities, and you need to choose the best one for the task and use it to clear the leaves effectively.  
+
+## Questions:
+
+1. **Which leaf blower should you choose? Explain your reasoning step-by-step.** 
+2. **How would you use the chosen leaf blower to effectively clear the leaves?**
+3. **Assuming you are using a backpack leaf blower, describe the steps you would take to operate it.**
+4. **How would you determine if the leaves are effectively cleared?**
+5. **If the chosen leaf blower is not working, what are your alternatives?**"
+https://plus.unsplash.com/premium_photo-1661692105787-d77a252fd432?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a cleaning robot in a restaurant. Your task is to clean the tables and chairs after closing hours. There are some people still in the restaurant. You need to avoid bumping into them and make sure you do not disturb their meal.  
+
+## Questions: 
+
+1. **What should you do to clean the tables and chairs without bumping into the people still in the restaurant?**
+2. **Describe the steps you would take to clean a single table with a chair next to it, considering the presence of people in the restaurant. **
+3. **Where would you store the cleaning supplies for the task?**
+4. **What tools would you use to clean the tables and chairs?** 
+5. **What are the potential hazards you should be aware of while cleaning the tables and chairs in the restaurant?**"
+https://i.pinimg.com/564x/30/c2/99/30c299a901a65d278705d6ddfeebad0c.jpg,"## Scenario:
+
+You are a robotic chef in a commercial kitchen. You are tasked with loading a large number of pre-prepared meals into a self-serving display case. You need to take the meals from the stacked trays on the counter, and place them neatly into the display case.
+
+## Questions:
+
+1. **What are the steps you would take to move the meals from the stacked trays to the display case?** 
+2. **Describe the specific tools or equipment you would need to complete this task.** 
+3. **What potential obstacles might you encounter, and how would you overcome them?** 
+4. **What is the most efficient way to ensure that all the meals are arranged neatly in the display case?**
+5. **Imagine you are suddenly alerted that you need to clean up a spill near the display case. How would you prioritize your tasks and safely handle the spill?**"
+https://i.pinimg.com/564x/c8/6e/46/c86e4630f971459ffafcf42863293596.jpg,"## Scenario:
+
+You are a mobile robotic butler tasked with assisting the human occupant of this kitchen. Your role is to ensure the kitchen is ready for the next meal. You have a pair of robotic arms equipped with grippers, and you can move and rotate objects. 
+
+## Questions:
+
+1.  **What is the most urgent task you need to address in this kitchen to ensure the next meal preparation is efficient? Explain your reasoning.**
+2.  **Describe the steps you would take to address the most urgent task.  Include details about how you would use your robotic arms to manipulate objects.**
+3.  **Considering the remaining mess, what is the next most important task, and how would you accomplish it?** 
+4. **After completing the two most urgent tasks, what other tasks could you perform to further assist the human occupant?**"
+https://i.pinimg.com/736x/92/11/85/921185ece13f2ab5158b51b933906461.jpg,"## Scenario:
+
+You are a mobile robot assistant tasked with setting up a home gym. You have been asked to organize the equipment for optimal workout flow, starting with the treadmill, then the two stationary bikes, and finally, the stationary bike with a screen. 
+
+## Questions:
+
+1. **What is the optimal order to move the equipment?** 
+   - Explain your reasoning.
+   - Describe the steps involved in moving each piece of equipment, assuming you have the ability to lift and move objects. 
+2. **Where should you place the stationary bike with the screen, considering the window placement?**
+   - Explain your reasoning. 
+   - Describe the steps involved in moving this piece of equipment to the chosen location.
+3. **How could you avoid tripping over the cords of the treadmill and the stationary bike with the screen?**
+   - Describe the steps you would take to organize the cords."
+https://i.pinimg.com/736x/ba/03/11/ba031167a69280d30ba62b2dd0a6ea4a.jpg,"## Scenario: 
+
+You are a **domestic robot** tasked with helping your owner stay in shape. Your owner has just bought a new home gym setup (pictured above) and is excited to start their fitness journey. 
+
+## Questions:
+
+1. Your owner asks you to help them set up the gym. They want you to move the weight bench to the center of the room. How would you go about doing this? Provide step-by-step instructions for your actions, considering the obstacles in the room. 
+2. Your owner asks you to help them put away the weights after their workout.  The weights are scattered around the room. How would you go about organizing the weights back onto the rack? Describe each step in detail, taking into account the potential challenges and how you would overcome them.
+3. Your owner is ready to start their workout, but they are not sure how to use the cable machine. They ask you to show them how to perform a lat pulldown exercise. Describe the step-by-step instructions you would give them, considering the setup of the machine and the position of the weights."
+https://i.pinimg.com/736x/ab/61/b2/ab61b2396fda18d9550acc66c697037a.jpg,"## Scenario:
+
+You are a **sorting robot** working at an airport baggage handling system. Your job is to ensure that each bag is properly sorted and loaded onto the correct conveyor belt for its destination flight. 
+
+## Questions:
+
+1. **What is the first thing you need to do when a bag arrives on the conveyor belt in front of you?** 
+    - (The answer should involve analyzing the bag's tag or label to determine its destination.)
+
+2. **How do you move the bag to the correct conveyor belt?** 
+    - (The answer should involve describing the physical actions of identifying the correct belt and maneuvering the bag towards it.)
+
+3. **What are some challenges you might face while sorting bags?** 
+    - (The answer should consider potential problems like bags being too heavy, jammed belts, or incorrect labels.)
+
+4. **If you encounter a problem while sorting, what steps should you take?** 
+    - (The answer should include a step-by-step approach for troubleshooting and potentially asking for human assistance.)"
+https://i.pinimg.com/564x/f6/1f/b7/f61fb762be975e0b6b50aff8157fdcbe.jpg,"## Scenario:
+
+You are a mobile cleaning robot tasked with maintaining the cleanliness of this industrial facility.  Your primary function is to sweep and mop floors, ensuring a safe and tidy environment.
+
+## Questions:
+
+1.  **Where should you start cleaning first?**  Why? Explain your reasoning step-by-step.
+2.  **What obstacles would you need to avoid while cleaning?**  How would you navigate around them? Explain your reasoning step-by-step.
+3.  **How would you determine the best cleaning path to minimize your cleaning time?** Explain your reasoning step-by-step.
+4.  **If you notice a spill on the floor, what action should you take?** Explain your reasoning step-by-step. 
+5.  **After completing your cleaning task, what actions should you take before returning to your charging station?** Explain your reasoning step-by-step."
+https://i.pinimg.com/564x/29/9b/72/299b7287026ad22fb81eee36bbc09ffd.jpg,"## Scenario: 
+
+You are a household cleaning robot, equipped with a robotic arm and a vision system. You are tasked with tidying up the laundry room. You need to fold the clothes that are already dry and place them on the shelf. 
+
+## Questions: 
+
+1. **What is the order of operations for folding the clothes on the rack?**
+2. **How can you safely navigate the robot to avoid bumping into the rack?**
+3. **What can be done to prevent the clothes from falling off the rack during the folding process?**"
+https://i.pinimg.com/564x/43/49/d1/4349d1fdfe10a2cc25729f4ef7a2d848.jpg,"## Scenario:
+
+You are a mobile robotic guide in a museum. A visitor asks you, ""Can you point out some of the oldest artifacts in this display? Please tell me how to get there and which ones are the oldest.""
+
+## Questions:
+
+1.  How would you approach the visitor and get their attention?
+2.  How would you navigate to the display and point out the artifacts?
+3.  How would you determine which artifacts are the oldest based on their placement in the display?
+4.  Explain your approach to the visitor. Describe your actions and speech in a step-by-step process."
+https://i.pinimg.com/564x/97/b0/1e/97b01e139e1700dc55f160a3c54f66c2.jpg,"## Scenario:
+
+Imagine you are a mobile robotic guide in a museum exhibit dedicated to the work of Elsa Schiaparelli, a famous fashion designer. Your task is to assist visitors by answering their questions about the exhibit.  You are equipped with a camera and a microphone for gathering information and a voice synthesizer for responding to questions.
+
+## Questions:
+
+1. A visitor points to the long black dress with the white flower embellishment and asks, ""What is the name of this dress?""  How do you locate and identify the dress in the image to answer their question?  
+
+2. A visitor asks, ""Could you show me the exhibit panel with the information about Elsa Schiaparelli's life?"" How would you locate the exhibit panel in the image and explain its location to the visitor? 
+
+3. A visitor asks, ""Can you tell me which dress is displayed on the table closest to me?"" How would you determine which dress is on the table closest to you, assuming you can only see the image provided?"
+https://images.unsplash.com/photo-1510563800743-aed236490d08?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a robotic helper designed to assist people around the house. You are currently in the living room. A woman is sitting on the sofa and a fluffy white dog is sitting next to her, on her left side. The woman seems to be petting the dog. There are some decorative items on the coffee table, and a window in the background. 
+
+## Questions:
+
+1. **Can you bring me the white dog's favorite toy from the bedroom?**  
+    **Instructions:**
+     - Identify the bedroom.
+     - Navigate to the bedroom.
+     - Locate a toy.
+     - Bring the toy back to the living room.
+     - Hand the toy to the woman. 
+2. **The woman is thirsty, can you bring her a glass of water from the kitchen?**
+    **Instructions:**
+     - Identify the kitchen.
+     - Navigate to the kitchen.
+     - Locate a glass and a water source.
+     - Fill the glass with water. 
+     - Bring the glass of water to the woman.
+3. **The woman seems to be feeling cold. Can you adjust the thermostat to a warmer temperature?**
+    **Instructions:**
+     - Identify the thermostat.
+     - Adjust the thermostat to a warmer temperature. 
+4. **The dog seems to be shedding. Can you grab the vacuum cleaner from the closet and vacuum the sofa?**
+    **Instructions:**
+     - Identify the closet. 
+     - Navigate to the closet.
+     - Locate the vacuum cleaner. 
+     - Bring the vacuum cleaner to the sofa.
+     - Vacuum the sofa."
+https://images.unsplash.com/photo-1614308456595-a59d48697ea8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a mobile robotic assistant in a laboratory setting. Your task is to assist scientists with their research.  
+
+## Questions:
+
+1. **You see a microscope and a white box on the table. The scientist asks you to connect the white box to the microscope. Describe the steps you would take to complete this task.** 
+2. **The scientist asks you to adjust the microscope's focus. Based on the image, what are the possible ways you could do that? What would you need to do to find the best focus for the scientist?** 
+3. **The scientist wants you to take a picture of what's under the microscope. How would you do it?** 
+4. **You need to move the microscope to another location on the table. How would you do it?** 
+5. **You need to pick up the microscope and carry it to a different table. How would you do it? What precautions would you take?**"
+https://i.pinimg.com/736x/24/4c/5d/244c5dc2f3b5a0c79ac3172ebfa25a03.jpg,"## Scenario:
+
+You are a robotic assistant working in a dental laboratory. Your task is to prepare a tray with the necessary tools for the next procedure.  The tools you need include a pair of tweezers, a small brush, a magnifying glass, and a bottle of dental cement. 
+
+## Questions:
+
+1.  **Where can you find the tweezers?** Describe the steps you would take to locate them.
+2.  **How would you pick up the small brush and place it on the tray?**  Describe the steps you would take.
+3.  **Where would you find the magnifying glass?** Describe the steps you would take to locate it.
+4.  **What would you do to get the dental cement from its container and onto the tray?** Describe the steps you would take. 
+5.  **Once all the tools are on the tray, what would you do next?**  Describe the steps you would take to ensure everything is ready for the next procedure."
+https://i.pinimg.com/564x/ea/82/62/ea82620fdec4d17c5e89cb5b2679869d.jpg,"## Scenario:
+
+You are a mobile robotic arm assistant in a laboratory setting, tasked with assisting researchers in their work. Your goal is to help them by fetching and transporting materials and equipment, while ensuring safety and avoiding collisions.
+
+## Questions:
+
+1. **What is the most important thing for you to consider when moving around the laboratory?** 
+  -  Step 1: Analyze the image to identify potential obstacles.
+  -  Step 2: Look for areas with high traffic or equipment that could be easily bumped into.
+  -  Step 3: Consider the size and maneuverability of the robotic arm.
+2. **A researcher asks you to fetch a test tube from the back shelf. What is your approach to retrieving the test tube safely?** 
+  -  Step 1: Identify the back shelf in the image.
+  -  Step 2:  Assess the distance and any potential obstructions between your current location and the shelf. 
+  -  Step 3: Determine a safe path to reach the shelf while avoiding collisions with people and equipment.
+  -  Step 4: Consider the delicate nature of the test tube and use a gentle gripping mechanism to retrieve it.
+3. **A researcher needs to move a heavy chemical container from one lab bench to another. How would you assist them?**
+  - Step 1: Identify the chemical container and the two lab benches in the image.
+  - Step 2:  Analyze the weight and size of the chemical container.
+  - Step 3: Determine the best way to grip and lift the container safely.
+  - Step 4: Plan a safe path to move the container from one bench to another, considering the possible obstacles.
+4. **You are tasked with cleaning up a small spill of liquid on the floor near a researcher. How would you approach this task?**
+  - Step 1: Identify the location of the spill in the image.
+  - Step 2:  Determine the best cleaning method based on the type of liquid and the surrounding environment.
+  - Step 3: Use your robotic arm to safely collect the spill and dispose of it in a designated container."
+https://images.unsplash.com/photo-1615631898182-0f6550dd2fbd?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a robotic assistant in a hospital room. You are tasked with helping nurses with their duties by preparing medical supplies and handing them to the nurses. 
+
+## Questions:
+
+1. **What steps should you take to prepare the gloves for the nurse?** 
+2. **The nurse needs to clean the patient's wound. Which item from the image can be used to clean the wound? How can you hand it to the nurse?**
+3. **The nurse wants to dispose of the used gloves and the cleaning solution container. Where should you place them?** 
+4. **What is the best way for you to hand the syringe to the nurse?**
+5. **After the nurse is done with the medical supplies, what should you do with them?**"
+https://images.unsplash.com/photo-1556911220-bff31c812dba?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"Scenario: You are a robotic chef in a modern kitchen. Your task is to prepare a meal for two people using the ingredients and tools available.  
+
+Questions:
+1. What are the steps to preparing a meal for two people using the ingredients and tools available in the kitchen? 
+2. How can you safely use the stovetop to cook the food? 
+3. Where should you put the cooked food once it's ready to be served?"
+https://images.unsplash.com/photo-1556910096-6f5e72db6803?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a **kitchen assistant robot** tasked with preparing a meal for two people. You are equipped with a robotic arm and grippers, allowing you to manipulate objects, and a vision system for understanding the scene. The kitchen is equipped with a stove, sink, cabinets, and various utensils.
+
+## Questions:
+
+1. **What ingredients are available in the kitchen?** (This question requires the robot to identify ingredients based on visual recognition of objects like spices, jars, and packages.) How would you approach identifying the ingredients?
+2. **How would you prepare a simple pasta dish using the available ingredients?** (This question requires the robot to plan a sequence of actions based on the available ingredients and kitchen appliances.) Provide a step-by-step plan for preparing the pasta dish.
+3. **If you need to wash a pot, how would you access the sink and turn on the water?** (This question tests the robot's ability to understand spatial relationships and use appliances.) What are the steps involved in washing the pot? 
+4. **You notice a cutting board and a knife on the countertop. How would you use them to prepare vegetables for the meal?** (This question evaluates the robot's ability to understand tools and their functionality.) Describe the steps you would take to prepare the vegetables using the cutting board and knife."
+https://plus.unsplash.com/premium_photo-1661342426605-d199894f478c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a robotic assistant, designed for helping people in the kitchen. A woman and a young girl are baking cookies. The woman has just pulled a tray of freshly baked cookies out of the oven, while the girl is looking at the cookies with excitement.  You need to help them with their tasks. 
+
+## Questions:
+
+1.  **What is the best way for the robot to help the woman get the cookies out of the oven?** 
+2.  **Based on the image, what additional items could the robot assist the woman in retrieving from the oven?**
+3.  **How can the robot help the girl with the cookies?**
+4.  **What steps could the robot take to help clean up after baking the cookies?**"
+https://i.pinimg.com/564x/2c/2b/be/2c2bbe93f4049d5ce204c712c6e02e31.jpg,"## Scenario:
+
+You are a robotic chef assistant, tasked with helping your human chef prepare meals in a busy restaurant kitchen. Your primary function is to assist the chef with tasks like fetching ingredients, handling utensils, and operating appliances. You are equipped with a basic understanding of kitchen tools and have been trained to observe and learn from your chef’s actions.
+
+## Questions:
+
+1. **The chef needs a large mixing bowl for preparing a salad. What would you do to help them find one?** (Hint: In this question, the robot should be able to understand that finding a specific item would require it to analyze the scene, identify different bowls, and then locate the largest one.)
+
+2. **The chef has finished cooking a dish and wants to serve it to the customer. How would you help them with this task?** (Hint: The robot should be able to understand that serving food would require actions like placing the cooked dish onto a plate, transferring it to the serving area, and potentially informing the waiter about the dish.)
+
+3. **The chef needs to operate the large stovetop to cook a new dish. How would you help them with this task?** (Hint: The robot should be able to understand that operating a stovetop would require actions like understanding the chef’s instructions regarding temperature and time, and then adjusting the stovetop settings accordingly.)"
+https://i.pinimg.com/564x/df/5f/e9/df5fe9c7154919de02c4c16d67ce97db.jpg,"## Scenario:
+
+You are a mobile robotic assistant designed to help people with disabilities in their daily lives. You are currently in a kitchen. Your user wants to make a cup of coffee. 
+
+## Questions:
+
+1. **How can you help the user prepare a cup of coffee?** (Requires the robot to infer what is needed to prepare coffee, locate necessary items, and provide steps to assist the user.)
+2. **What steps would you take to ensure the user has a safe and comfortable experience preparing coffee?** (Requires the robot to consider potential hazards and how to navigate the environment.)
+3. **How can you ensure the user can easily access the coffee and other items they need, considering the physical limitations imposed by the wheelchair?** (Requires the robot to consider the wheelchair's limitations and suggest solutions to make the task accessible.)"
+https://i.pinimg.com/564x/3f/68/d9/3f68d99886c9bdb281409892c8bbf276.jpg,"## Scenario:
+
+Imagine you are a mobile robotic assistant in a greenhouse.  You are tasked with helping the gardeners take care of the plants.  There are two gardeners in the greenhouse, one is carrying a box full of plants and the other one is looking for a specific plant in a shelf.  The shelf is full of different plants.
+
+## Questions:
+
+1.  Where should you go to help the gardener who is carrying the box? 
+    * **What steps will you take?**
+2.  What should you do to help the gardener who is searching for a plant on the shelf?
+    * **What steps will you take?**
+3.  If you need to pick up a plant from the shelf, how would you move it without damaging it? 
+    * **What steps will you take?**
+4.  Assuming you have a vision system and you can recognize different plants, how can you assist the gardener who is searching for a plant on the shelf?
+    * **What steps will you take?**"
+https://i.pinimg.com/564x/c5/43/83/c54383a43d144d305a95c2ec82254f88.jpg,"## Scenario:
+
+You are a wheeled robotic assistant in a greenhouse. Your task is to help the gardener manage the seedlings. The gardener has instructed you to move some of the seedlings to a different location within the greenhouse.
+
+## Questions:
+
+1.  The gardener asks you to move the seedlings on the top shelf to the bottom shelf. How would you accomplish this task?  Describe the steps you would take to move the seedlings, considering the available space and obstacles. 
+2.  The gardener asks you to move all the seedlings on the bottom shelf to the middle shelf. They are arranged in rows, but the rows are not straight.  How would you move these seedlings to the middle shelf while keeping them in rows?
+3.  You are instructed to water the seedlings on the bottom shelf. Describe how you would access the seedlings to water them, considering your size and the layout of the greenhouse."
+https://i.pinimg.com/564x/ae/c9/50/aec950436f53b435a20c910c5fc42b88.jpg,"## Scenario: 
+
+You are a **small, wheeled robot** designed to help keep the city clean. You have been tasked with picking up trash from a back alley. 
+
+## Questions:
+
+1. What type of trash do you see? How many pieces of trash are there?
+2. Describe the path you would take to pick up the trash, starting from where you are now.  
+3. If the trash bags are too heavy for you, how could you move them to a more accessible location?"
+https://i.pinimg.com/564x/19/25/ca/1925ca254f1157c23b74fa7d1f1cbef8.jpg,"## Scenario:
+
+You are a **household robot** designed to help with everyday tasks. You wake up in a room with a large bed and a gaming setup, and you are tasked with preparing the room for the owner’s return. 
+
+## Questions:
+
+1. **What are some things you can do to tidy up the room?** (This question requires the robot to infer actions related to tidying a room, such as making the bed, picking up objects, etc.)
+
+2. **How would you adjust the lighting in the room to make it more welcoming?** (This question requires the robot to identify potential light sources and infer their functionality.)
+
+3. **If you were to move the bed to a different location in the room, what steps would you take to ensure it is safe and efficient?** (This question focuses on physical action planning and safety considerations.)"
+https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D,"## Scenario:
+
+You are a mobile robotic butler, navigating a living room. Your task is to ensure the comfort of the residents by maintaining a pleasant environment. 
+
+## Questions:
+
+1. **What is the most comfortable position to place the lamp in the image?** (Provide step-by-step instructions on how you would move the lamp to that position, taking into consideration its physical properties and potential obstacles in the environment.)
+2. **The residents are expecting guests and want to make the room look more welcoming. What can you do to improve the visual appeal of the couch?** (Outline a step-by-step approach for making the couch more presentable, considering the available objects and the functionality of your robotic arms.)
+3. **The residents have left a book on the side table. What can you do to ensure it's not accidentally knocked off and potentially damaged?** (Explain your approach for interacting with the book and the side table to prevent it from falling, describing your actions and how you would use your robotic features.)"
