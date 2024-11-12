@@ -3,7 +3,7 @@ from transformers import AutoProcessor, AutoModelForImageTextToText
 import os
 from huggingface_hub import HfFolder
 
-HfFolder.save_token("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")
+HfFolder.save_token("Enter Your own key mate")
 
 #huggingface_token = os.getenv("HUGGINGFACE_TOKEN")  
 '''processor = AutoProcessor.from_pretrained(
