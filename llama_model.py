@@ -13,6 +13,6 @@ model = AutoModelForImageTextToText.from_pretrained(
     "meta-llama/Llama-3.2-11B-Vision", use_auth_token=huggingface_token
 )'''
 
-processor = AutoProcessor.from_pretrained("meta-llama/Llama-3.2-11B-Vision", device_map="balanced")
-model = AutoModelForImageTextToText.from_pretrained("meta-llama/Llama-3.2-11B-Vision", device_map="balanced")
-model.tie_weights()
+processor = AutoProcessor.from_pretrained("meta-llama/Llama-3.2-11B-Vision", device_map="cuda")
+model = AutoModelForImageTextToText.from_pretrained("meta-llama/Llama-3.2-11B-Vision", device_map="cuda")
+#model.tie_weights()
