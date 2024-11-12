@@ -1,0 +1,41 @@
+==========================================
+SLURM_CLUSTER_NAME = param-shakti
+SLURM_JOB_ACCOUNT = somakcs
+SLURM_JOB_ID = 1173001
+SLURM_JOB_NAME = llama_3.2_vision
+SLURM_JOB_NODELIST = gpu[015,019]
+SLURM_JOB_USER = 22ch10090
+SLURM_JOB_UID = 7485
+SLURM_JOB_PARTITION = gpu
+SLURM_TASK_PID = 42205
+SLURM_SUBMIT_DIR = /scratch/22ch10090/visionlanguage/inria
+SLURM_CPUS_ON_NODE = 28
+SLURM_NTASKS = 8
+SLURM_TASK_PID = 42205
+==========================================
+Job started on gpu015.iitkgp.ac.in at Sat Nov  9 22:06:22 IST 2024
+Sat Nov  9 22:06:23 2024       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 515.57       Driver Version: 515.57       CUDA Version: 11.7     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  Off  | 00000000:5E:00.0 Off |                    0 |
+| N/A   31C    P0    35W / 250W |      0MiB / 16384MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+|   1  Tesla V100-PCIE...  Off  | 00000000:86:00.0 Off |                    0 |
+| N/A   35C    P0    35W / 250W |      0MiB / 16384MiB |      2%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+Processing complete. Results saved to llama_results.csv.
