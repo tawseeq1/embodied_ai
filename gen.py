@@ -5,7 +5,7 @@ from images import image_urls  # Importing the list of image URLs
 import os
 
 # Configure the Gemini API
-GOOGLE_API_KEY = 'AIzaSyACMoxbEHpwusW1q7pagB20xeQGotIvvA0'
+GOOGLE_API_KEY = 'API'
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel(model_name="gemini-1.5-flash")
 
